@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "깃허브 연동 시험파일 내용~~~.md",
+                "file": "아하하.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#제목",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,17 +71,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "깃허브 연동 시험파일 내용~~~.md",
+                "file": "아하하.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 255.5
   },
   "right": {
     "id": "31b68a82de377f79",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "깃허브 연동 시험파일 내용~~~.md",
+                "file": "아하하.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "깃허브 연동 시험파일 내용~~~.md",
+                "file": "아하하.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "깃허브 연동 시험파일 내용~~~.md"
+                "file": "아하하.md"
               }
             }
           }
@@ -158,10 +159,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4745c162c97bae2b",
+  "active": "3b40ede638233ef3",
   "lastOpenFiles": [
     "무제 폴더/무제 파일.canvas",
-    "깃허브 연동 시험파일 내용~~~.md",
+    "아하하.md",
     "무제 폴더",
     "README.md"
   ]
