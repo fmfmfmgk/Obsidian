@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "깃허브 연동 시험파일 내용~~~.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "깃허브 연동 시험파일 내용~~~.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "깃허브 연동 시험파일 내용~~~.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "깃허브 연동 시험파일 내용~~~.md"
               }
             }
           }
@@ -146,8 +146,8 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9d2125efb97b8be7",
+  "active": "4745c162c97bae2b",
   "lastOpenFiles": [
-    "무제 파일.md"
+    "깃허브 연동 시험파일 내용~~~.md"
   ]
 }
