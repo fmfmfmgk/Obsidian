@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d323ca61fe8843ef",
+        "id": "dc33d9880e0a0d63",
         "type": "tabs",
         "children": [
           {
-            "id": "9d2125efb97b8be7",
+            "id": "3b40ede638233ef3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -63,6 +63,18 @@
             "state": {
               "type": "bookmarks",
               "state": {}
+            }
+          },
+          {
+            "id": "9d2125efb97b8be7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "깃허브 연동 시험파일 내용~~~.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -148,6 +160,9 @@
   },
   "active": "4745c162c97bae2b",
   "lastOpenFiles": [
-    "깃허브 연동 시험파일 내용~~~.md"
+    "무제 폴더/무제 파일.canvas",
+    "깃허브 연동 시험파일 내용~~~.md",
+    "무제 폴더",
+    "README.md"
   ]
 }
