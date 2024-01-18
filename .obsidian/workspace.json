@@ -26,13 +26,25 @@
               "type": "markdown",
               "state": {
                 "file": "용어사전/모르는 단어 한번 알아보자.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e49a29ebae951f5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JQuery/Ajax.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "용어사전/모르는 단어 한번 알아보자.md",
+                "file": "JQuery/Ajax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "용어사전/모르는 단어 한번 알아보자.md",
+                "file": "JQuery/Ajax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "용어사전/모르는 단어 한번 알아보자.md"
+                "file": "JQuery/Ajax.md"
               }
             }
           }
@@ -160,12 +172,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b059c129d5641abc",
+  "active": "e49a29ebae951f5b",
   "lastOpenFiles": [
-    "JQuery/Ajax.md",
     "용어사전/모르는 단어 한번 알아보자.md",
-    "용어사전",
+    "JQuery/Ajax.md",
     "기타파일/옵시디언 사용법.md",
+    "용어사전",
     "Java/MyBatis.md",
     "JQuery",
     "Excalidraw/Drawing 2024-01-18 16.06.43.excalidraw.md",
