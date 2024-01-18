@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 200
   },
   "right": {
     "id": "31b68a82de377f79",
@@ -158,7 +158,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3b40ede638233ef3",
+  "active": "4745c162c97bae2b",
   "lastOpenFiles": [
     "무제 파일.canvas",
     "아하하.md",
