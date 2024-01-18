@@ -5,5 +5,8 @@
   "baseFontSize": 16,
   "enabledCssSnippets": [
     "extended-colorschemes"
-  ]
+  ],
+  "translucency": false,
+  "baseFontSizeAction": true,
+  "showViewHeader": true
 }

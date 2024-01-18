@@ -1,4 +1,6 @@
 {
   "spellcheck": false,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "showInlineTitle": true,
+  "autoPairBrackets": false
 }
