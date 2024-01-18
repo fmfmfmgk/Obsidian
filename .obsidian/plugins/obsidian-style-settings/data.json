@@ -25,5 +25,7 @@
   "anuppuccin-theme-settings@@anp-file-icons": true,
   "anuppuccin-theme-settings@@anp-floating-header": true,
   "anuppuccin-theme-settings@@callout-radius": 4,
-  "anuppuccin-theme-settings@@anp-callout-fold-position": "0"
+  "anuppuccin-theme-settings@@anp-callout-fold-position": "0",
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-rosewater",
+  "anuppuccin-theme-settings@@anp-hide-borders": false
 }
