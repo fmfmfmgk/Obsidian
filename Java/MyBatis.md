@@ -15,6 +15,8 @@
 ## MyBatis 환경설정
 --- 
 
+- 환경설정은 x
+
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Mybatis의 환경 설정 파일 -->
