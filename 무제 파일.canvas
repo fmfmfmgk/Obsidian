@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"0699c03afacd4487","x":-300,"y":-300,"width":250,"height":70,"type":"text","text":"asdasdas"},
-		{"id":"e45a8ca1d2886dd6","x":0,"y":-220,"width":400,"height":400,"type":"file","file":"아하하.md"}
-	],
-	"edges":[
-		{"id":"7d3e41894f1406ab","fromNode":"0699c03afacd4487","fromSide":"right","toNode":"e45a8ca1d2886dd6","toSide":"top"}
-	]
-}
