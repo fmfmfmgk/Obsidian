@@ -13,48 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "옵시디언 사용법.md",
+                "file": "문서링크.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "1951fa525b46d7e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "무제 파일.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eaa5d0fd035034ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "무제 파일 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fca46debd978b8d3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-01-18 14.11.50.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "옵시디언 사용법.md",
+                "file": "기본/옵시디언 사용법.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-18 14.11.50.excalidraw.md",
+                "file": "문서링크.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-18 14.11.50.excalidraw.md",
+                "file": "문서링크.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-18 14.11.50.excalidraw.md"
+                "file": "문서링크.md"
               }
             }
           }
@@ -194,20 +159,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fca46debd978b8d3",
+  "active": "3b40ede638233ef3",
   "lastOpenFiles": [
+    "무제 파일.md",
+    "임베딩.md",
     "무제 파일 1.md",
+    "문서링크.md",
+    "기본/옵시디언 사용법.md",
     "Excalidraw/Drawing 2024-01-18 14.11.50.excalidraw.md",
     "Excalidraw",
     "Fonts/나눔손글씨 성실체.ttf",
     "Fonts",
-    "무제 파일.md",
-    "옵시디언 사용법.md",
-    "임베딩.md",
-    "문서링크.md",
     "무제 파일.canvas",
     "무제 폴더/무제 파일.canvas",
-    "무제 폴더",
+    "기본",
     "README.md"
   ]
 }
