@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JQuery/Ajax.md",
+                "file": "용어사전/모르는 단어 한번 알아보자.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JQuery/Ajax.md",
+                "file": "용어사전/모르는 단어 한번 알아보자.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JQuery/Ajax.md",
+                "file": "용어사전/모르는 단어 한번 알아보자.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JQuery/Ajax.md"
+                "file": "용어사전/모르는 단어 한번 알아보자.md"
               }
             }
           }
@@ -162,8 +162,10 @@
   },
   "active": "b059c129d5641abc",
   "lastOpenFiles": [
-    "기타파일/옵시디언 사용법.md",
     "JQuery/Ajax.md",
+    "용어사전/모르는 단어 한번 알아보자.md",
+    "용어사전",
+    "기타파일/옵시디언 사용법.md",
     "Java/MyBatis.md",
     "JQuery",
     "Excalidraw/Drawing 2024-01-18 16.06.43.excalidraw.md",

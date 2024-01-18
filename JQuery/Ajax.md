@@ -19,7 +19,7 @@
 통신요청을 할때에는 
 
 ` var 변수명 = new XMLHttpRequest();`
-<br>
+
 으로 객체생성후 요청을 하는데 'get' 방식과 'post'방식 2가지로 나뉜다.
 
 - GET 방식
@@ -27,14 +27,20 @@
 변수명.open("GET","textData.jsp?name:홍길동",true);
 변수명.send(); //get일때는 url에 쿼리스트링으로
 ```
-<br>
+
 
  - POST방식
 ```javascript
-data = "name=korea&age
+data = "name=korea&age=15";
+변수명.open("POST","first.jsp",true);
+xhttp.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+xhttp.send(data);
 ```
 
 
+
+### 응답
+<hr>
 
 
 
