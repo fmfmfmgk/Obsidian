@@ -9,13 +9,11 @@
 - MyBatis의 데이터매퍼 API[^1]를 사용해서 자바빈즈(보통VO객체) 혹은 Map객체를 PreparedStatement의 파라미터에 매핑해주고, SQL문의 처리 결과도 자바빈즈(보통VO객체)혹은 Map객체에 자동으로 매핑해준다.
 
 %%주석%%
-
 <br>
 <br>
 <br>
 ## MyBatis 환경설정
 --- 
-
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
