@@ -23,11 +23,9 @@
             "id": "a6087407eafa4fb6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Java/MyBatis.md",
-                "mode": "preview",
-                "source": true
+                "file": "Excalidraw/Drawing 2024-01-18 16.06.43.excalidraw.md"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/MyBatis.md",
+                "file": "Excalidraw/Drawing 2024-01-18 16.06.43.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/MyBatis.md",
+                "file": "Excalidraw/Drawing 2024-01-18 16.06.43.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/MyBatis.md"
+                "file": "Excalidraw/Drawing 2024-01-18 16.06.43.excalidraw.md"
               }
             }
           }
@@ -162,11 +160,11 @@
   },
   "active": "a6087407eafa4fb6",
   "lastOpenFiles": [
-    "기타파일/옵시디언 사용법.md",
     "Oracle/무제 파일.md",
+    "Java/MyBatis.md",
+    "기타파일/옵시디언 사용법.md",
     "임베딩.md",
     "Excalidraw/Drawing 2024-01-18 16.06.43.excalidraw.md",
-    "Java/MyBatis.md",
     "Oracle",
     "Pasted image 20240118173828.png",
     "Pasted image 20240118143436.png",
