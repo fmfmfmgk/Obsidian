@@ -42,9 +42,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "394aa465711ee29e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JQuery/Ajax.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -172,15 +184,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e49a29ebae951f5b",
+  "active": "394aa465711ee29e",
   "lastOpenFiles": [
-    "용어사전/모르는 단어 한번 알아보자.md",
+    "Java/MyBatis.md",
     "JQuery/Ajax.md",
+    "JQuery/JSON.md",
+    "용어사전/모르는 단어 한번 알아보자.md",
+    "Excalidraw/Drawing 2024-01-18 16.06.43.excalidraw.md",
     "기타파일/옵시디언 사용법.md",
     "용어사전",
-    "Java/MyBatis.md",
     "JQuery",
-    "Excalidraw/Drawing 2024-01-18 16.06.43.excalidraw.md",
     "Oracle/무제 파일.md",
     "임베딩.md",
     "Oracle",
