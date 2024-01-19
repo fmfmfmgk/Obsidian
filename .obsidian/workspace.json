@@ -32,31 +32,19 @@
             }
           },
           {
-            "id": "e49a29ebae951f5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JQuery/Ajax.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "394aa465711ee29e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JQuery/Ajax.md",
+                "file": "용어사전/모르는 단어 한번 알아보자.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JQuery/Ajax.md",
+                "file": "용어사전/모르는 단어 한번 알아보자.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JQuery/Ajax.md",
+                "file": "용어사전/모르는 단어 한번 알아보자.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JQuery/Ajax.md"
+                "file": "용어사전/모르는 단어 한번 알아보자.md"
               }
             }
           }
