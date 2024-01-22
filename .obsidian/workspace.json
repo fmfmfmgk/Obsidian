@@ -47,9 +47,11 @@
             "id": "af64d45a6ceb9f42",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-19 11.01.47.excalidraw.md"
+                "file": "JQuery/Ajax.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -120,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-19 11.01.47.excalidraw.md",
+                "file": "JQuery/Ajax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-19 11.01.47.excalidraw.md",
+                "file": "JQuery/Ajax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-19 11.01.47.excalidraw.md"
+                "file": "JQuery/Ajax.md"
               }
             }
           }
@@ -184,16 +186,16 @@
   },
   "active": "af64d45a6ceb9f42",
   "lastOpenFiles": [
+    "Java/MyBatis.md",
     "JQuery/Ajax.md",
+    "JQuery/JSON.md",
+    "Oracle/무제 파일.md",
     "Excalidraw/Drawing 2024-01-19 11.01.47.excalidraw.md",
     "용어사전/모르는 단어 한번 알아보자.md",
-    "Java/MyBatis.md",
-    "JQuery/JSON.md",
     "Excalidraw/Drawing 2024-01-18 16.06.43.excalidraw.md",
     "기타파일/옵시디언 사용법.md",
     "용어사전",
     "JQuery",
-    "Oracle/무제 파일.md",
     "임베딩.md",
     "Oracle",
     "Pasted image 20240118173828.png",
