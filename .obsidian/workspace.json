@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a6087407eafa4fb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "기타파일/옵시디언 사용법.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b059c129d5641abc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "용어사전/모르는 단어 한번 알아보자.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "394aa465711ee29e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JQuery/Ajax.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "af64d45a6ceb9f42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JQuery/Ajax.md",
+                "file": "Java/Servlet.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JQuery/Ajax.md",
+                "file": "Java/Servlet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JQuery/Ajax.md",
+                "file": "Java/Servlet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JQuery/Ajax.md"
+                "file": "Java/Servlet.md"
               }
             }
           }
@@ -186,10 +149,11 @@
   },
   "active": "af64d45a6ceb9f42",
   "lastOpenFiles": [
+    "JQuery/Ajax.md",
+    "Java/Servlet.md",
     "기타파일/옵시디언 사용법.md",
     "중급 프로젝트",
     "Java/MyBatis.md",
-    "JQuery/Ajax.md",
     "JQuery/JSON.md",
     "Oracle/무제 파일.md",
     "Excalidraw/Drawing 2024-01-19 11.01.47.excalidraw.md",
