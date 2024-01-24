@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "11fe3bc71ce8b54f",
+        "id": "2aa8adc868c992d0",
         "type": "tabs",
         "children": [
           {
-            "id": "af64d45a6ceb9f42",
+            "id": "dceda8284e9d6787",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Servlet.md",
+                "file": "JQuery/Ajax.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "right": {
     "id": "31b68a82de377f79",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Servlet.md",
+                "file": "JQuery/Ajax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Servlet.md",
+                "file": "JQuery/Ajax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Servlet.md"
+                "file": "JQuery/Ajax.md"
               }
             }
           }
@@ -148,17 +147,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "af64d45a6ceb9f42",
+  "active": "dceda8284e9d6787",
   "lastOpenFiles": [
-    "JQuery/Ajax.md",
+    "용어사전/모르는 단어 한번 알아보자.md",
+    "2024-01-24.md",
     "Java/Servlet.md",
+    "JQuery/Ajax.md",
     "기타파일/옵시디언 사용법.md",
     "중급 프로젝트",
     "Java/MyBatis.md",
     "JQuery/JSON.md",
     "Oracle/무제 파일.md",
     "Excalidraw/Drawing 2024-01-19 11.01.47.excalidraw.md",
-    "용어사전/모르는 단어 한번 알아보자.md",
     "Excalidraw/Drawing 2024-01-18 16.06.43.excalidraw.md",
     "용어사전",
     "JQuery",
