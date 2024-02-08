@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "45f6c05e2a6e6f23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JQuery/Ajax.md",
+                "file": "무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JQuery/Ajax.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JQuery/Ajax.md"
+                "file": "무제 파일.md"
               }
             }
           }
@@ -147,12 +160,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dceda8284e9d6787",
+  "active": "45f6c05e2a6e6f23",
   "lastOpenFiles": [
+    "JQuery/Ajax.md",
+    "무제 파일.md",
     "용어사전/모르는 단어 한번 알아보자.md",
     "2024-01-24.md",
     "Java/Servlet.md",
-    "JQuery/Ajax.md",
     "기타파일/옵시디언 사용법.md",
     "중급 프로젝트",
     "Java/MyBatis.md",
