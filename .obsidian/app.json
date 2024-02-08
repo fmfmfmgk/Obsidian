@@ -2,5 +2,6 @@
   "spellcheck": false,
   "showUnsupportedFiles": true,
   "showInlineTitle": true,
-  "autoPairBrackets": false
+  "autoPairBrackets": false,
+  "attachmentFolderPath": "사진 파일"
 }
