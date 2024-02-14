@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "41d687fff063c2b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "중급 프로젝트/중급프로젝트 2024-02-14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6f24af78efdfa2d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "기타파일/옵시디언 사용법.md",
+                "file": "중급 프로젝트/중급프로젝트 2024-02-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -159,10 +147,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "41d687fff063c2b0",
+  "active": "6f24af78efdfa2d6",
   "lastOpenFiles": [
-    "중급 프로젝트/중급프로젝트 2024-02-08.md",
+    "Excalidraw/Drawing 2024-01-19 11.01.47.excalidraw.md",
     "중급 프로젝트/중급프로젝트 2024-02-14.md",
+    "중급 프로젝트/중급프로젝트 2024-02-08.md",
     "기타파일/옵시디언 사용법.md",
     "사진 파일/Pasted image 20240214163515.png",
     "사진 파일/Pasted image 20240214163459.png",
@@ -182,7 +171,6 @@
     "Java/MyBatis.md",
     "JQuery/JSON.md",
     "Oracle/무제 파일.md",
-    "Excalidraw/Drawing 2024-01-19 11.01.47.excalidraw.md",
     "Excalidraw/Drawing 2024-01-18 16.06.43.excalidraw.md",
     "용어사전",
     "JQuery",
