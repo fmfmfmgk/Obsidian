@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6f24af78efdfa2d6",
+            "id": "da48d158fd82a5c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7e49ae3bde1f5a9f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "중급 프로젝트/중급프로젝트 2024-02-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "중급 프로젝트/중급프로젝트 2024-02-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "중급 프로젝트/중급프로젝트 2024-02-14.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,11 +152,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6f24af78efdfa2d6",
+  "active": "4745c162c97bae2b",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-01-19 11.01.47.excalidraw.md",
+    "Oracle/무제 파일.md",
+    "임베딩.md",
+    "2024-02-15.md",
+    "2024-01-24.md",
+    "중급 프로젝트/중급프로젝트 2024-02-15.md",
     "중급 프로젝트/중급프로젝트 2024-02-14.md",
     "중급 프로젝트/중급프로젝트 2024-02-08.md",
+    "Excalidraw/Drawing 2024-01-19 11.01.47.excalidraw.md",
     "기타파일/옵시디언 사용법.md",
     "사진 파일/Pasted image 20240214163515.png",
     "사진 파일/Pasted image 20240214163459.png",
@@ -165,16 +175,13 @@
     "사진 파일/Pasted image 20240208141218.png",
     "JQuery/Ajax.md",
     "용어사전/모르는 단어 한번 알아보자.md",
-    "2024-01-24.md",
     "Java/Servlet.md",
     "중급 프로젝트",
     "Java/MyBatis.md",
     "JQuery/JSON.md",
-    "Oracle/무제 파일.md",
     "Excalidraw/Drawing 2024-01-18 16.06.43.excalidraw.md",
     "용어사전",
     "JQuery",
-    "임베딩.md",
     "Oracle",
     "Pasted image 20240118173828.png",
     "Pasted image 20240118143436.png",
