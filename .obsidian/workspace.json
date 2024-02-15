@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "중급 프로젝트/중급프로젝트 2024-02-14.md",
+                "file": "중급 프로젝트/중급프로젝트 2024-02-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "중급 프로젝트/중급프로젝트 2024-02-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "중급 프로젝트/중급프로젝트 2024-02-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "중급 프로젝트/중급프로젝트 2024-02-15.md"
+              }
             }
           }
         ]
@@ -152,14 +155,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4745c162c97bae2b",
+  "active": "da48d158fd82a5c6",
   "lastOpenFiles": [
+    "중급 프로젝트/중급프로젝트 2024-02-14.md",
     "Oracle/무제 파일.md",
     "임베딩.md",
     "2024-02-15.md",
     "2024-01-24.md",
     "중급 프로젝트/중급프로젝트 2024-02-15.md",
-    "중급 프로젝트/중급프로젝트 2024-02-14.md",
     "중급 프로젝트/중급프로젝트 2024-02-08.md",
     "Excalidraw/Drawing 2024-01-19 11.01.47.excalidraw.md",
     "기타파일/옵시디언 사용법.md",
