@@ -42,12 +42,14 @@
             }
           },
           {
-            "id": "f5920a9347d055d1",
+            "id": "8024728c4e54340b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Python/Python.md"
+                "file": "기타파일/옵시디언 사용법.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -183,11 +185,11 @@
   },
   "active": "b5f58a5b47544ef4",
   "lastOpenFiles": [
-    "Python/설치 &설정.md",
-    "JSP/2024-02-21(수).md",
     "기타파일/옵시디언 사용법.md",
+    "JSP/2024-02-21(수).md",
     "JSP/Drawing 2024-02-21 19.44.45.excalidraw.md",
     "Python/Python.md",
+    "Python/설치 &설정.md",
     "Excalidraw/Drawing 2024-01-19 11.01.47.excalidraw.md",
     "Excalidraw/Drawing 2024-02-21 19.27.29.excalidraw.md",
     "Excalidraw/Drawing 2024-02-21 19.27.30.excalidraw.md",
