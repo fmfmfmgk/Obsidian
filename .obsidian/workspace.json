@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "3aba64f8e5475ed2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JSP/2024-02-21(수).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b5f58a5b47544ef4",
             "type": "leaf",
             "state": {
@@ -62,21 +50,9 @@
                 "file": "Python/Python.md"
               }
             }
-          },
-          {
-            "id": "c9fed189d0b48214",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "기타파일/옵시디언 사용법.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "right": {
     "id": "31b68a82de377f79",
@@ -142,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/Drawing 2024-02-21 19.44.45.excalidraw.md",
+                "file": "JSP/2024-02-21(수).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/Drawing 2024-02-21 19.44.45.excalidraw.md",
+                "file": "JSP/2024-02-21(수).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/Drawing 2024-02-21 19.44.45.excalidraw.md"
+                "file": "JSP/2024-02-21(수).md"
               }
             }
           }
@@ -204,17 +181,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c2efa2b6455d57a3",
+  "active": "b5f58a5b47544ef4",
   "lastOpenFiles": [
+    "Python/설치 &설정.md",
     "JSP/2024-02-21(수).md",
+    "기타파일/옵시디언 사용법.md",
     "JSP/Drawing 2024-02-21 19.44.45.excalidraw.md",
     "Python/Python.md",
-    "기타파일/옵시디언 사용법.md",
     "Excalidraw/Drawing 2024-01-19 11.01.47.excalidraw.md",
     "Excalidraw/Drawing 2024-02-21 19.27.29.excalidraw.md",
     "Excalidraw/Drawing 2024-02-21 19.27.30.excalidraw.md",
     "사진 파일/Pasted image 20240221180054.png",
-    "Python/설치 &설정.md",
     "Python/Python(1).md",
     "JSP",
     "용어사전/모르는 단어 한번 알아보자.md",
