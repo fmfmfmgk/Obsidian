@@ -44,6 +44,16 @@
             }
           },
           {
+            "id": "c2efa2b6455d57a3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "JSP/Drawing 2024-02-21 19.44.45.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "f5920a9347d055d1",
             "type": "leaf",
             "state": {
@@ -66,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/2024-02-21(수).md",
+                "file": "JSP/Drawing 2024-02-21 19.44.45.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/2024-02-21(수).md",
+                "file": "JSP/Drawing 2024-02-21 19.44.45.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/2024-02-21(수).md"
+                "file": "JSP/Drawing 2024-02-21 19.44.45.excalidraw.md"
               }
             }
           }
@@ -194,11 +204,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b5f58a5b47544ef4",
+  "active": "c2efa2b6455d57a3",
   "lastOpenFiles": [
+    "JSP/2024-02-21(수).md",
+    "JSP/Drawing 2024-02-21 19.44.45.excalidraw.md",
     "Python/Python.md",
     "기타파일/옵시디언 사용법.md",
-    "JSP/2024-02-21(수).md",
     "Excalidraw/Drawing 2024-01-19 11.01.47.excalidraw.md",
     "Excalidraw/Drawing 2024-02-21 19.27.29.excalidraw.md",
     "Excalidraw/Drawing 2024-02-21 19.27.30.excalidraw.md",
@@ -240,7 +251,6 @@
     "무제 폴더/Drawing 2024-01-18 14.42.36.excalidraw.md",
     "Excalidraw",
     "Java",
-    "문서링크.md",
     "기타파일/Fonts/나눔손글씨 성실체.ttf",
     "무제 파일.canvas",
     "무제 폴더/무제 파일.canvas"
