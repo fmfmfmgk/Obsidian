@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/무제 파일.md",
+                "file": "Python/설치 &설정.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/무제 파일.md",
+                "file": "Python/설치 &설정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/무제 파일.md",
+                "file": "Python/설치 &설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/무제 파일.md"
+                "file": "Python/설치 &설정.md"
               }
             }
           }
@@ -159,8 +159,10 @@
   },
   "active": "2f980e0423214239",
   "lastOpenFiles": [
+    "사진 파일/Pasted image 20240221102341.png",
+    "사진 파일/Pasted image 20240221102117.png",
     "Python/Python.md",
-    "Python/무제 파일.md",
+    "Python/설치 &설정.md",
     "무제 폴더",
     "중급 프로젝트/중급프로젝트 2024-02-15.md",
     "Python",
@@ -192,7 +194,6 @@
     "JQuery",
     "Oracle",
     "Pasted image 20240118173828.png",
-    "Pasted image 20240118143436.png",
     "Excalidraw/Drawing 2024-01-18 14.30.12.excalidraw.md",
     "Excalidraw/Drawing 2024-01-18 14.42.37_0.excalidraw.md",
     "Excalidraw/Drawing 2024-01-18 14.42.37.excalidraw.md",
