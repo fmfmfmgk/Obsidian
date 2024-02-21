@@ -10,15 +10,28 @@
 
 
 > [!note] 변수(Variable)
-> a= 3 (정수)
-> b= 1.2 (실수)
-> c= 'a' (문자형)
-> d= "hello" (문자형)
-> e= True (
+
+```python
+a = 1
+b = 1.2
+c = '8'
+d = "hello"
+e = True
+f = False
+
+print(a+b)
+print(str(a)+c)
+print(a+int(c))
+print(d+c)
+print(e and f)
+print(e or f)
+print(not e)
+```
 
 
 
-> [!note] 상수(Constant)
+
+
 
 
 
