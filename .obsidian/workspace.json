@@ -4,30 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "2aa8adc868c992d0",
+        "id": "a04c52b978c20b36",
         "type": "tabs",
         "children": [
           {
-            "id": "da48d158fd82a5c6",
+            "id": "2f980e0423214239",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "중급 프로젝트/중급프로젝트 2024-02-15.md",
+                "file": "Python/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7e49ae3bde1f5a9f",
+            "id": "ce23ddef31692c3f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Python/Python.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "중급 프로젝트/중급프로젝트 2024-02-15.md",
+                "file": "Python/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "중급 프로젝트/중급프로젝트 2024-02-15.md",
+                "file": "Python/Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "중급 프로젝트/중급프로젝트 2024-02-15.md"
+                "file": "Python/Python.md"
               }
             }
           }
@@ -155,14 +158,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "da48d158fd82a5c6",
+  "active": "ce23ddef31692c3f",
   "lastOpenFiles": [
+    "Python/무제 파일.md",
+    "Python/Python.md",
+    "무제 폴더",
+    "중급 프로젝트/중급프로젝트 2024-02-15.md",
+    "Python",
     "중급 프로젝트/중급프로젝트 2024-02-14.md",
     "Oracle/무제 파일.md",
     "임베딩.md",
     "2024-02-15.md",
     "2024-01-24.md",
-    "중급 프로젝트/중급프로젝트 2024-02-15.md",
     "중급 프로젝트/중급프로젝트 2024-02-08.md",
     "Excalidraw/Drawing 2024-01-19 11.01.47.excalidraw.md",
     "기타파일/옵시디언 사용법.md",
@@ -173,7 +180,6 @@
     "사진 파일/Pasted image 20240208211918.png",
     "사진 파일/Pasted image 20240208144638.png",
     "사진 파일/Pasted image 20240208144342.png",
-    "무제 파일.md",
     "사진 파일",
     "사진 파일/Pasted image 20240208141218.png",
     "JQuery/Ajax.md",
@@ -197,10 +203,8 @@
     "문서링크.md",
     "Excalidraw/Drawing 2024-01-18 14.11.50.excalidraw.md",
     "기타파일/Fonts/나눔손글씨 성실체.ttf",
-    "기타파일/Fonts",
     "무제 파일.canvas",
     "무제 폴더/무제 파일.canvas",
-    "기타파일",
     "README.md"
   ]
 }
