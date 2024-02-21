@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Python(1).md",
+                "file": "JSP/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Python(1).md",
+                "file": "JSP/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Python(1).md",
+                "file": "JSP/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Python(1).md"
+                "file": "JSP/무제 파일.md"
               }
             }
           }
@@ -182,10 +182,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3aba64f8e5475ed2",
+  "active": "4745c162c97bae2b",
   "lastOpenFiles": [
-    "Python/Python.md",
     "Python/Python(1).md",
+    "JSP/무제 파일.md",
+    "JSP",
+    "Python/Python.md",
     "기타파일/옵시디언 사용법.md",
     "용어사전/모르는 단어 한번 알아보자.md",
     "Python/설치 &설정.md",
@@ -194,7 +196,6 @@
     "사진 파일/Pasted image 20240221103032.png",
     "사진 파일/Pasted image 20240221102341.png",
     "사진 파일/Pasted image 20240221102117.png",
-    "무제 폴더",
     "중급 프로젝트/중급프로젝트 2024-02-15.md",
     "Python",
     "중급 프로젝트/중급프로젝트 2024-02-14.md",
