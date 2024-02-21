@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Python.md",
+                "file": "Python/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Python.md",
+                "file": "Python/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Python.md"
+                "file": "Python/무제 파일.md"
               }
             }
           }
@@ -158,10 +157,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ce23ddef31692c3f",
+  "active": "2f980e0423214239",
   "lastOpenFiles": [
-    "Python/무제 파일.md",
     "Python/Python.md",
+    "Python/무제 파일.md",
     "무제 폴더",
     "중급 프로젝트/중급프로젝트 2024-02-15.md",
     "Python",
