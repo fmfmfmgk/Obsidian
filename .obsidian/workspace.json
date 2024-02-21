@@ -11,16 +11,6 @@
             "id": "ce23ddef31692c3f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Python/Python.md"
-              }
-            }
-          },
-          {
-            "id": "2f980e0423214239",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Python/설치 &설정.md",
@@ -30,12 +20,12 @@
             }
           },
           {
-            "id": "7fc8339cf07978c5",
+            "id": "3aba64f8e5475ed2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/2024-02-21.md",
+                "file": "Python/Python(1).md",
                 "mode": "source",
                 "source": false
               }
@@ -54,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/2024-02-21.md",
+                "file": "Python/Python(1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/2024-02-21.md",
+                "file": "Python/Python(1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/2024-02-21.md"
+                "file": "Python/Python(1).md"
               }
             }
           }
@@ -182,12 +172,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7fc8339cf07978c5",
+  "active": "3aba64f8e5475ed2",
   "lastOpenFiles": [
-    "Python/설치 &설정.md",
-    "Python/2024-02-21.md",
-    "Python/Python.md",
+    "용어사전/모르는 단어 한번 알아보자.md",
+    "Python/Python(1).md",
     "기타파일/옵시디언 사용법.md",
+    "Python/설치 &설정.md",
+    "Python/Python.md",
     "사진 파일/Pasted image 20240221104006.png",
     "사진 파일/Pasted image 20240221103837.png",
     "사진 파일/Pasted image 20240221103032.png",
@@ -210,7 +201,6 @@
     "사진 파일/Pasted image 20240208211918.png",
     "사진 파일",
     "JQuery/Ajax.md",
-    "용어사전/모르는 단어 한번 알아보자.md",
     "Java/Servlet.md",
     "중급 프로젝트",
     "Java/MyBatis.md",

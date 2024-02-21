@@ -3,5 +3,6 @@
   "showUnsupportedFiles": true,
   "showInlineTitle": true,
   "autoPairBrackets": false,
-  "attachmentFolderPath": "사진 파일"
+  "attachmentFolderPath": "사진 파일",
+  "newFileLocation": "current"
 }
