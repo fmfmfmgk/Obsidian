@@ -10,7 +10,17 @@
 
 
 > [!note] 변수(Variable)
+> a= 3 (정수)
+> b= 1.2 (실수)
+> c= 'a' (문자형)
+> d= "hello"
+> e= True
 
 
 
 > [!note] 상수(Constant)
+
+
+
+<hr>
+

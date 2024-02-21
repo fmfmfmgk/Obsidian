@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "f5920a9347d055d1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Python/Python.md"
+              }
+            }
+          },
+          {
             "id": "c9fed189d0b48214",
             "type": "leaf",
             "state": {
@@ -174,11 +184,11 @@
   },
   "active": "3aba64f8e5475ed2",
   "lastOpenFiles": [
-    "용어사전/모르는 단어 한번 알아보자.md",
+    "Python/Python.md",
     "Python/Python(1).md",
     "기타파일/옵시디언 사용법.md",
+    "용어사전/모르는 단어 한번 알아보자.md",
     "Python/설치 &설정.md",
-    "Python/Python.md",
     "사진 파일/Pasted image 20240221104006.png",
     "사진 파일/Pasted image 20240221103837.png",
     "사진 파일/Pasted image 20240221103032.png",
