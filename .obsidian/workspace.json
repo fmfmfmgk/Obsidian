@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSP/무제 파일.md",
+                "file": "JSP/2024-02-21(수).md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/무제 파일.md",
+                "file": "JSP/2024-02-21(수).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/무제 파일.md",
+                "file": "JSP/2024-02-21(수).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/무제 파일.md"
+                "file": "JSP/2024-02-21(수).md"
               }
             }
           }
@@ -182,10 +182,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4745c162c97bae2b",
+  "active": "3aba64f8e5475ed2",
   "lastOpenFiles": [
     "Python/Python(1).md",
-    "JSP/무제 파일.md",
+    "JSP/2024-02-21(수).md",
     "JSP",
     "Python/Python.md",
     "기타파일/옵시디언 사용법.md",
