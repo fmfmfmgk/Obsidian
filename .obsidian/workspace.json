@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSP/2024-02-21(수).md",
+                "file": "Python/Python(2).md",
                 "mode": "source",
                 "source": false
               }
@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "right": {
     "id": "31b68a82de377f79",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/Drawing 2024-02-21 19.44.45.excalidraw.md",
+                "file": "Python/Python(2).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/Drawing 2024-02-21 19.44.45.excalidraw.md",
+                "file": "Python/Python(2).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/Drawing 2024-02-21 19.44.45.excalidraw.md"
+                "file": "Python/Python(2).md"
               }
             }
           }
@@ -183,19 +182,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c2efa2b6455d57a3",
+  "active": "b5f58a5b47544ef4",
   "lastOpenFiles": [
-    "기타파일/옵시디언 사용법.md",
-    "JSP/Drawing 2024-02-21 19.44.45.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-21 20.49.16.excalidraw.md",
-    "JSP/2024-02-21(수).md",
+    "Python/Python(1).md",
     "Python/Python.md",
+    "Python/Python(2).md",
+    "JSP/2024-02-21(수).md",
+    "JSP/Drawing 2024-02-21 19.44.45.excalidraw.md",
     "Python/설치 &설정.md",
+    "Excalidraw/Scripts/Downloaded/Connect elements.svg",
+    "Excalidraw/Scripts/Downloaded/Connect elements.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "기타파일/옵시디언 사용법.md",
+    "Excalidraw/Drawing 2024-02-21 20.49.16.excalidraw.md",
     "Excalidraw/Drawing 2024-01-19 11.01.47.excalidraw.md",
     "Excalidraw/Drawing 2024-02-21 19.27.29.excalidraw.md",
     "Excalidraw/Drawing 2024-02-21 19.27.30.excalidraw.md",
     "사진 파일/Pasted image 20240221180054.png",
-    "Python/Python(1).md",
     "JSP",
     "용어사전/모르는 단어 한번 알아보자.md",
     "사진 파일/Pasted image 20240221104006.png",
@@ -214,7 +218,6 @@
     "사진 파일/Pasted image 20240214163515.png",
     "사진 파일/Pasted image 20240214163459.png",
     "사진 파일/Pasted image 20240208212237.png",
-    "사진 파일/Pasted image 20240208212103.png",
     "사진 파일",
     "JQuery/Ajax.md",
     "Java/Servlet.md",
@@ -226,11 +229,7 @@
     "JQuery",
     "Oracle",
     "Excalidraw/Drawing 2024-01-18 14.30.12.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-18 14.42.37_0.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-18 14.42.37.excalidraw.md",
     "Excalidraw",
-    "Java",
-    "기타파일/Fonts/나눔손글씨 성실체.ttf",
     "무제 파일.canvas",
     "무제 폴더/무제 파일.canvas"
   ]
