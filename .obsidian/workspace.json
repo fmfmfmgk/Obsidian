@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/Drawing 2024-02-21 19.44.45.excalidraw.md",
+                "file": "JSP/2024-02-22(목).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/Drawing 2024-02-21 19.44.45.excalidraw.md",
+                "file": "JSP/2024-02-22(목).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/Drawing 2024-02-21 19.44.45.excalidraw.md"
+                "file": "JSP/2024-02-22(목).md"
               }
             }
           }
@@ -170,10 +169,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4dacb6123d62c6c3",
+  "active": "b5f58a5b47544ef4",
   "lastOpenFiles": [
-    "JSP/2024-02-22(목).md",
     "JSP/Drawing 2024-02-21 19.44.45.excalidraw.md",
+    "JSP/2024-02-22(목).md",
     "JSP/2024-02-21(수).md",
     "Python/Python(2).md",
     "Python/설치 &설정.md",
