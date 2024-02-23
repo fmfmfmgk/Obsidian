@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSP/2024-02-22(목).md",
+                "file": "JSP/2024-02-23(금).md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/2024-02-22(목).md",
+                "file": "JSP/2024-02-23(금).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/2024-02-22(목).md",
+                "file": "JSP/2024-02-23(금).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/2024-02-22(목).md"
+                "file": "JSP/2024-02-23(금).md"
               }
             }
           }
@@ -184,8 +184,9 @@
   "active": "b5f58a5b47544ef4",
   "lastOpenFiles": [
     "JSP/Drawing 2024-02-21 19.44.45.excalidraw.md",
-    "JSP/2024-02-21(수).md",
     "JSP/2024-02-22(목).md",
+    "JSP/2024-02-23(금).md",
+    "JSP/2024-02-21(수).md",
     "기타파일/옵시디언 사용법.md",
     "Python/Python(2).md",
     "Python/설치 &설정.md",
@@ -224,7 +225,6 @@
     "중급 프로젝트",
     "Java/MyBatis.md",
     "JQuery/JSON.md",
-    "Excalidraw/Drawing 2024-01-18 16.06.43.excalidraw.md",
     "용어사전",
     "JQuery",
     "Oracle",
