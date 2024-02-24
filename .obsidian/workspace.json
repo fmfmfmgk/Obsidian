@@ -52,9 +52,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a72c6f1c8767986b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JSP/2024-02-23(금).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/2024-02-21(수).md",
+                "file": "JSP/2024-02-23(금).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/2024-02-21(수).md",
+                "file": "JSP/2024-02-23(금).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/2024-02-21(수).md"
+                "file": "JSP/2024-02-23(금).md"
               }
             }
           }
@@ -182,7 +194,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fdaeefb5ef909c55",
+  "active": "a72c6f1c8767986b",
   "lastOpenFiles": [
     "기타파일/옵시디언 사용법.md",
     "JSP/Drawing 2024-02-21 19.44.45.excalidraw.md",
