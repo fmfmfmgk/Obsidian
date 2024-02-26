@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "9448c42d16f79140",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "JSP/D.정보의 가공.md"
+              }
+            }
+          },
+          {
             "id": "8024728c4e54340b",
             "type": "leaf",
             "state": {
@@ -77,13 +87,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "right": {
     "id": "31b68a82de377f79",
@@ -165,6 +173,8 @@
   "lastOpenFiles": [
     "기타파일/옵시디언 사용법.md",
     "JSP/2024-02-26(월).md",
+    "JSP/D.정보의 가공.md",
+    "JSP/무제 파일.canvas",
     "JSP/2024-02-23(금).md",
     "JSP/Drawing 2024-02-21 19.44.45.excalidraw.md",
     "JSP/2024-02-21(수).md",
@@ -204,7 +214,6 @@
     "JQuery/Ajax.md",
     "Java/Servlet.md",
     "중급 프로젝트",
-    "Java/MyBatis.md",
     "용어사전",
     "JQuery",
     "Oracle",
