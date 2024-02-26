@@ -37,8 +37,8 @@ Dao ^CGIexXOK
 		{
 			"id": "hzKBh_zXzZdM7W7p_wOi5",
 			"type": "rectangle",
-			"x": -582.4884656575324,
-			"y": -202.99571927441866,
+			"x": -513.5938032170648,
+			"y": -207.0483464767991,
 			"width": 127.6176669538672,
 			"height": 57.45624111643393,
 			"angle": 0,
@@ -53,8 +53,8 @@ Dao ^CGIexXOK
 			"frameId": null,
 			"roundness": null,
 			"seed": 1312159433,
-			"version": 255,
-			"versionNonce": 1603125769,
+			"version": 305,
+			"versionNonce": 1705841415,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -66,15 +66,15 @@ Dao ^CGIexXOK
 					"type": "arrow"
 				}
 			],
-			"updated": 1708943462077,
+			"updated": 1708943876323,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "0bq1q7VZ",
 			"type": "text",
-			"x": -541.4096126493488,
-			"y": -186.2675987162017,
+			"x": -472.51495020888115,
+			"y": -190.32022591858214,
 			"width": 45.4599609375,
 			"height": 24,
 			"angle": 0,
@@ -89,11 +89,11 @@ Dao ^CGIexXOK
 			"frameId": null,
 			"roundness": null,
 			"seed": 1104850695,
-			"version": 213,
-			"versionNonce": 1316657385,
+			"version": 263,
+			"versionNonce": 1086528039,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1708943462077,
+			"updated": 1708943876323,
 			"link": null,
 			"locked": false,
 			"text": "data",
@@ -186,8 +186,8 @@ Dao ^CGIexXOK
 		},
 		{
 			"type": "rectangle",
-			"version": 304,
-			"versionNonce": 1372761545,
+			"version": 353,
+			"versionNonce": 651414471,
 			"isDeleted": false,
 			"id": "q9DDnDJgEk0GTyK8fCtzI",
 			"fillStyle": "solid",
@@ -196,8 +196,8 @@ Dao ^CGIexXOK
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 17.381574975602234,
-			"y": -215.37135353058676,
+			"x": -69.46043650397871,
+			"y": -209.5818860986147,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 140.35449530420573,
@@ -216,14 +216,14 @@ Dao ^CGIexXOK
 					"type": "arrow"
 				}
 			],
-			"updated": 1708943443993,
+			"updated": 1708943880728,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 271,
-			"versionNonce": 1263367273,
+			"version": 320,
+			"versionNonce": 1175763687,
 			"isDeleted": false,
 			"id": "UjOgsEA1",
 			"fillStyle": "solid",
@@ -232,8 +232,8 @@ Dao ^CGIexXOK
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 54.55885314528322,
-			"y": -198.6432329723698,
+			"x": -32.283158334297724,
+			"y": -192.85376554039772,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 65.99993896484375,
@@ -243,7 +243,7 @@ Dao ^CGIexXOK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708943561723,
+			"updated": 1708943880728,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -260,10 +260,10 @@ Dao ^CGIexXOK
 		{
 			"id": "SfQeKKeZaaN7cIAnn_V6S",
 			"type": "arrow",
-			"x": -475.51890715854256,
-			"y": -215.30109676063154,
-			"width": 177.2853275175778,
-			"height": 31.84207087584639,
+			"x": -434.57701060205625,
+			"y": -219.353723963012,
+			"width": 136.34343096109149,
+			"height": 27.78944367346594,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -278,11 +278,11 @@ Dao ^CGIexXOK
 				"type": 2
 			},
 			"seed": 2008835239,
-			"version": 421,
-			"versionNonce": 750880807,
+			"version": 471,
+			"versionNonce": 1439382855,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1708943574606,
+			"updated": 1708943876323,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -291,12 +291,12 @@ Dao ^CGIexXOK
 					0
 				],
 				[
-					90.94666070892583,
-					-31.84207087584639
+					50.00476415243952,
+					-27.78944367346594
 				],
 				[
-					177.2853275175778,
-					-5.2102067484578924
+					136.34343096109149,
+					-1.157579546077443
 				]
 			],
 			"lastCommittedPoint": null,
@@ -315,8 +315,8 @@ Dao ^CGIexXOK
 		},
 		{
 			"type": "arrow",
-			"version": 513,
-			"versionNonce": 1843194471,
+			"version": 562,
+			"versionNonce": 699057671,
 			"isDeleted": false,
 			"id": "WpIaDaXDPCRqGhhfxFkeu",
 			"fillStyle": "solid",
@@ -329,8 +329,8 @@ Dao ^CGIexXOK
 			"y": -223.702529892293,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 191.769643226081,
-			"height": 28.900774925123983,
+			"width": 150.6032612693342,
+			"height": 34.65343784432119,
 			"seed": 482181479,
 			"groupIds": [],
 			"frameId": null,
@@ -338,7 +338,7 @@ Dao ^CGIexXOK
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1708943574607,
+			"updated": 1708943880729,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -364,8 +364,8 @@ Dao ^CGIexXOK
 					-26.63155018707147
 				],
 				[
-					191.769643226081,
-					2.2692247380525146
+					150.6032612693342,
+					8.02188765724972
 				]
 			]
 		},
@@ -446,8 +446,8 @@ Dao ^CGIexXOK
 		{
 			"id": "v26j5ACN",
 			"type": "text",
-			"x": -572.7299379887088,
-			"y": -138.7959136313892,
+			"x": -503.83527554824116,
+			"y": -142.84854083376965,
 			"width": 104.28787231445312,
 			"height": 19.2,
 			"angle": 0,
@@ -462,11 +462,11 @@ Dao ^CGIexXOK
 			"frameId": null,
 			"roundness": null,
 			"seed": 1015043081,
-			"version": 68,
-			"versionNonce": 483410857,
+			"version": 118,
+			"versionNonce": 1478622311,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1708943559673,
+			"updated": 1708943876323,
 			"link": null,
 			"locked": false,
 			"text": ": 가공되지 않은 데이터",
@@ -519,8 +519,8 @@ Dao ^CGIexXOK
 		},
 		{
 			"type": "text",
-			"version": 385,
-			"versionNonce": 475404873,
+			"version": 434,
+			"versionNonce": 1083338023,
 			"isDeleted": false,
 			"id": "FylFyCZJ",
 			"fillStyle": "solid",
@@ -529,8 +529,8 @@ Dao ^CGIexXOK
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 31.136359918942617,
-			"y": -152.53275386098082,
+			"x": -55.70565156063833,
+			"y": -146.74328642900875,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 117.30404663085938,
@@ -540,7 +540,7 @@ Dao ^CGIexXOK
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1708943633256,
+			"updated": 1708943880729,
 			"link": null,
 			"locked": false,
 			"fontSize": 15.276316571003466,
@@ -570,8 +570,8 @@ Dao ^CGIexXOK
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 618.1772573296894,
-		"scrollY": 454.71366715840134,
+		"scrollX": 654.0719554079162,
+		"scrollY": 426.9242234849354,
 		"zoom": {
 			"value": 1.7272745926120023
 		},
