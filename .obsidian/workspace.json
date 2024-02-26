@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSP/2024-02-23(금).md",
+                "file": "JSP/2024-02-26(월).md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/2024-02-23(금).md",
+                "file": "JSP/2024-02-26(월).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/2024-02-23(금).md",
+                "file": "JSP/2024-02-26(월).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/2024-02-23(금).md"
+                "file": "JSP/2024-02-26(월).md"
               }
             }
           }
@@ -161,10 +161,11 @@
   },
   "active": "b5f58a5b47544ef4",
   "lastOpenFiles": [
+    "JSP/2024-02-23(금).md",
+    "JSP/2024-02-26(월).md",
     "JSP/Drawing 2024-02-21 19.44.45.excalidraw.md",
     "기타파일/옵시디언 사용법.md",
     "JSP/2024-02-21(수).md",
-    "JSP/2024-02-23(금).md",
     "JSP/2024-02-22(목).md",
     "Python/Python(2).md",
     "Python/설치 &설정.md",
@@ -202,7 +203,6 @@
     "Java/Servlet.md",
     "중급 프로젝트",
     "Java/MyBatis.md",
-    "JQuery/JSON.md",
     "용어사전",
     "JQuery",
     "Oracle",
