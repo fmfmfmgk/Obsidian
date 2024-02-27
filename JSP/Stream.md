@@ -149,4 +149,7 @@ reader.close();
 ```
 
 이렇게 선언을 하면 위의 3가지 Stream중에 하나라도 실행이 안된채로 에러가 발생하게 되면
-그 뒤의 Stream은 null인 상태이기 때문에 Close()가 실행이 안된다.. 그래서 위에서와 같이 lock이 걸려 같은 문제를 겪게 되
+그 뒤의 Stream은 null인 상태이기 때문에 'NullPointerException' 이 발생한다. 
+
+그래서 위에서와 같이 lock이 걸려 같은 문제를 겪게 되므로 `if(fis!=null)fis.close();` 과 같이 if문을 걸어주자
+
