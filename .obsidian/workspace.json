@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSP/2024-02-26(화).md",
+                "file": "JSP/Stream.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-27 14.01.33.excalidraw.md"
+                "file": "JSP/D.데이터 전송.md"
               }
             }
           },
@@ -65,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-27 14.01.33.excalidraw.md",
+                "file": "JSP/Stream.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-27 14.01.33.excalidraw.md",
+                "file": "JSP/Stream.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-27 14.01.33.excalidraw.md"
+                "file": "JSP/Stream.md"
               }
             }
           }
@@ -194,15 +193,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b4d011123e1e1805",
+  "active": "9448c42d16f79140",
   "lastOpenFiles": [
+    "사진 파일/잘못된 serlvet.jpg",
     "JSP/2024-02-26(화).md",
-    "Excalidraw/Drawing 2024-02-27 14.01.33.excalidraw.md",
-    "JSP/D.레이어드 아키텍쳐.md",
-    "JSP/D.Tier구조.md",
+    "JSP/Stream.md",
     "JSP/2024-02-26(월).md",
+    "JSP/D.데이터 전송.md",
     "JSP/SOLID.md",
     "기타파일/옵시디언 사용법.md",
+    "Excalidraw/Drawing 2024-02-21 20.49.16.excalidraw.md",
+    "JSP/D.레이어드 아키텍쳐.md",
+    "JSP/D.Tier구조.md",
     "JSP/무제 파일.canvas",
     "JSP/2024-02-23(금).md",
     "JSP/2024-02-21(수).md",
@@ -215,7 +217,6 @@
     "Excalidraw/Scripts/Downloaded/Connect elements.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Excalidraw/Drawing 2024-02-21 20.49.16.excalidraw.md",
     "Excalidraw/Drawing 2024-01-19 11.01.47.excalidraw.md",
     "Excalidraw/Drawing 2024-02-21 19.27.29.excalidraw.md",
     "Excalidraw/Drawing 2024-02-21 19.27.30.excalidraw.md",
@@ -232,8 +233,6 @@
     "중급 프로젝트/중급프로젝트 2024-02-14.md",
     "Oracle/무제 파일.md",
     "임베딩.md",
-    "2024-02-15.md",
-    "2024-01-24.md",
     "사진 파일/Pasted image 20240214163515.png",
     "사진 파일/Pasted image 20240214163459.png",
     "사진 파일/Pasted image 20240208212237.png",
