@@ -47,20 +47,6 @@
 ```java
 package kr.or.ddit.servlet02;
 
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.OutputStream;
-
-import javax.servlet.ServletConfig;
-import javax.servlet.ServletContext;
-import javax.servlet.ServletException;
-import javax.servlet.annotation.WebServlet;
-import javax.servlet.http.HttpServlet;
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpServletResponse;
-
 @WebServlet("/image.do")
 public class ImageStreamingServlet extends HttpServlet{
 	private ServletContext application;
@@ -108,4 +94,59 @@ public class ImageStreamingServlet extends HttpServlet{
 ```
 
 - 1번 문제는 `String file = req.getParameter("name");` 를 이용해서 parameter값을 받아와 file 변수를 보내주는 것으로 해결하였고
-- 
+- 3번 문제는
+
+```java
+private ServletContext application;
+
+String mime = application.getMimeType(imageFile.getName());
+resp.setContentType(mime);
+resp.setContentLengthLong(imageFile.length());
+
+```
+
+이 부분을 통해서 해결했는데 ServletContext에서 쓸 수 있는
+`setContentType` : 해당 file의 확장자를 식별해서 Content-Type을 반환하는 메소드
+`setContentLengthLong` : 해당 file의 크기를 반환하는 메소드
+를 사용해서 동적으로 요청되는 파일의 mime type을 가져와 사용했다.
+
+마지막 2번 문제는
+
+```java
+private static void readKorString_charStream() throws IOException{
+		//1.
+		File txtFile = new File("D:/00.medias/ETA_ANSI.txt");
+		FileInputStream fis = null;
+		BufferedReader reader = null;
+		InputStreamReader isr = null;
+		try {
+			fis = new FileInputStream(txtFile);
+			
+			//option(2차 스트림)
+			isr = new InputStreamReader(fis, "ms949");
+			reader = new BufferedReader(isr);
+			String readStr = null;
+			
+			while((readStr = reader.readLine())!=null) {
+				System.out.println(readStr);
+			}
+			
+		}finally {
+			if(fis!=null)fis.close();
+			if(isr!=null)isr.close();
+			if(reader!=null)reader.close();
+		}
+	}
+```
+
+위와 같이 try 구문의 finally안쪽에 선언함으로 해결했다.
+다만 선언할때 
+
+```java
+fis.close();
+isr.close();
+reader.close();
+```
+
+이렇게 선언을 하면 위의 3가지 Stream중에 하나라도 실행이 안된채로 에러가 발생하게 되면
+그 뒤의 Stream은 null인 상태이기 때문에 Close()가 실행이 안된다.. 그래서 위에서와 같이 lock이 걸려 같은 문제를 겪게 되
