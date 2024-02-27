@@ -1040,19 +1040,25 @@ view ^bshc1YSI
 			"opacity": 100,
 			"groupIds": [],
 			"frameId": null,
-			"roundness": null,
+			"roundness": {
+				"type": 2
+			},
 			"seed": 272640046,
-			"version": 128,
-			"versionNonce": 985786670,
+			"version": 140,
+			"versionNonce": 437737454,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1709010768195,
+			"updated": 1709031572277,
 			"link": null,
 			"locked": false,
 			"points": [
 				[
 					0,
 					0
+				],
+				[
+					-204.9141604395768,
+					18.901954009952192
 				],
 				[
 					-395.8200601242256,
@@ -1065,13 +1071,13 @@ view ^bshc1YSI
 			],
 			"startBinding": {
 				"elementId": "9kRUmVqnz9Od0RVNieoik",
-				"gap": 14.172548695827459,
-				"focus": 0.3677386726742021
+				"focus": 0.24723798126810118,
+				"gap": 14.172548695827459
 			},
 			"endBinding": {
 				"elementId": "t2jqB82N",
-				"gap": 10.39988759029626,
-				"focus": -0.21673338799575045
+				"focus": 0.04000773876971355,
+				"gap": 10.39886604238211
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -1082,7 +1088,7 @@ view ^bshc1YSI
 			"x": -361.7952226608067,
 			"y": -276.9676449131003,
 			"width": 167.0336096293898,
-			"height": 6.0739494410687485,
+			"height": 20.871971848842065,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -1093,19 +1099,25 @@ view ^bshc1YSI
 			"opacity": 100,
 			"groupIds": [],
 			"frameId": null,
-			"roundness": null,
+			"roundness": {
+				"type": 2
+			},
 			"seed": 83314734,
-			"version": 85,
-			"versionNonce": 383926702,
+			"version": 90,
+			"versionNonce": 2003462706,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1709010662794,
+			"updated": 1709031579045,
 			"link": null,
 			"locked": false,
 			"points": [
 				[
 					0,
 					0
+				],
+				[
+					-77.86603517806844,
+					-14.798022407773317
 				],
 				[
 					-167.0336096293898,
@@ -1118,12 +1130,12 @@ view ^bshc1YSI
 			],
 			"startBinding": {
 				"elementId": "t2jqB82N",
-				"focus": 0.3463478768994783,
+				"focus": -0.2713279648652476,
 				"gap": 11.038478081904884
 			},
 			"endBinding": {
 				"elementId": "CGIexXOK",
-				"focus": 0.10308715144446175,
+				"focus": 0.4453973894767453,
 				"gap": 13.032884970928308
 			},
 			"startArrowhead": null,
@@ -1351,8 +1363,8 @@ view ^bshc1YSI
 		{
 			"id": "Cg5ZDLIe",
 			"type": "text",
-			"x": -23.678703774647488,
-			"y": -28.800143853989766,
+			"x": -106.77357741261244,
+			"y": -49.18190531235848,
 			"width": 215.8919219970703,
 			"height": 43.199999999999996,
 			"angle": 0,
@@ -1367,11 +1379,11 @@ view ^bshc1YSI
 			"frameId": null,
 			"roundness": null,
 			"seed": 152561650,
-			"version": 59,
-			"versionNonce": 1850464302,
+			"version": 74,
+			"versionNonce": 114420594,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1709010845748,
+			"updated": 1709031528635,
 			"link": null,
 			"locked": false,
 			"text": "<레이어드 아키텍쳐>",
@@ -1452,10 +1464,10 @@ view ^bshc1YSI
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 630.0613229746752,
-		"scrollY": 632.8314848223814,
+		"scrollX": 1249.6612578388751,
+		"scrollY": 898.7368211670273,
 		"zoom": {
-			"value": 0.9878251470832614
+			"value": 0.65
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

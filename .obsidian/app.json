@@ -4,5 +4,6 @@
   "showInlineTitle": true,
   "autoPairBrackets": false,
   "attachmentFolderPath": "사진 파일",
-  "newFileLocation": "root"
+  "newFileLocation": "root",
+  "alwaysUpdateLinks": true
 }
