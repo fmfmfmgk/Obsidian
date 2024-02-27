@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSP/SOLID.md",
+                "file": "JSP/2024-02-26(월).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/SOLID.md",
+                "file": "JSP/2024-02-26(월).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/SOLID.md",
+                "file": "JSP/2024-02-26(월).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/SOLID.md"
+                "file": "JSP/2024-02-26(월).md"
               }
             }
           }
@@ -162,9 +162,10 @@
   },
   "active": "9448c42d16f79140",
   "lastOpenFiles": [
-    "기타파일/옵시디언 사용법.md",
-    "JSP/SOLID.md",
+    "JSP/2024-02-26(화).md",
     "JSP/2024-02-26(월).md",
+    "JSP/SOLID.md",
+    "기타파일/옵시디언 사용법.md",
     "JSP/Tier구조.md",
     "JSP/D.정보의 가공.md",
     "JSP/무제 파일.canvas",
@@ -203,7 +204,6 @@
     "사진 파일/Pasted image 20240214163459.png",
     "사진 파일/Pasted image 20240208212237.png",
     "사진 파일",
-    "JQuery/Ajax.md",
     "중급 프로젝트",
     "용어사전",
     "JQuery",
