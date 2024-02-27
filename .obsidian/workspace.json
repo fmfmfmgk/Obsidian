@@ -11,11 +11,9 @@
             "id": "9448c42d16f79140",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "JSP/2024-02-26(화).md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-02-27 14.01.33.excalidraw.md"
               }
             }
           },
@@ -131,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/2024-02-26(화).md",
+                "file": "Excalidraw/Drawing 2024-02-27 14.01.33.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/2024-02-26(화).md",
+                "file": "Excalidraw/Drawing 2024-02-27 14.01.33.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/2024-02-26(화).md"
+                "file": "Excalidraw/Drawing 2024-02-27 14.01.33.excalidraw.md"
               }
             }
           }
@@ -195,10 +193,10 @@
   },
   "active": "9448c42d16f79140",
   "lastOpenFiles": [
+    "JSP/2024-02-26(화).md",
     "JSP/SOLID.md",
     "기타파일/옵시디언 사용법.md",
     "JSP/2024-02-26(월).md",
-    "JSP/2024-02-26(화).md",
     "JSP/D.정보의 가공.md",
     "Excalidraw/Drawing 2024-02-27 14.01.33.excalidraw.md",
     "JSP/Tier구조.md",
