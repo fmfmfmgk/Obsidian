@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/Drawing 2024-02-28 14.18.02.excalidraw.md",
+                "file": "JSP/2024-02-28(수).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/Drawing 2024-02-28 14.18.02.excalidraw.md",
+                "file": "JSP/2024-02-28(수).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/Drawing 2024-02-28 14.18.02.excalidraw.md"
+                "file": "JSP/2024-02-28(수).md"
               }
             }
           }
@@ -182,10 +182,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "60895163e1d051d7",
+  "active": "2bdddb68ae803482",
   "lastOpenFiles": [
-    "JSP/2024-02-28(수).md",
     "JSP/Drawing 2024-02-28 14.18.02.excalidraw.md",
+    "JSP/2024-02-28(수).md",
     "용어사전/모르는 단어 한번 알아보자.md",
     "기타파일/옵시디언 사용법.md",
     "JSP/D.Tier구조.md",
