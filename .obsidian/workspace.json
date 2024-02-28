@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSP/Stream.md",
+                "file": "Python/Python(2).md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/Stream.md",
+                "file": "Python/Python(2).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/Stream.md",
+                "file": "Python/Python(2).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/Stream.md"
+                "file": "Python/Python(2).md"
               }
             }
           }
@@ -173,6 +173,7 @@
   },
   "active": "9448c42d16f79140",
   "lastOpenFiles": [
+    "JSP/Stream.md",
     "JSP/D.데이터 전송.md",
     "Python/Python(2).md",
     "JSP/2024-02-26(화).md",
@@ -183,7 +184,6 @@
     "JQuery/Ajax.md",
     "Java/Servlet.md",
     "JSP/D.레이어드 아키텍쳐.md",
-    "JSP/Stream.md",
     "JSP/SOLID.md",
     "JSP/2024-02-26(월).md",
     "사진 파일/수정 후 2.jpg",
