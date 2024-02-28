@@ -35,7 +35,7 @@ if __name__ == "__main__":
 
 
 >[!tip]
->se
+>self : 전역변수
 
 <hr>
 

@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "b4d011123e1e1805",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "JSP/D.데이터 전송.md"
-              }
-            }
-          },
-          {
             "id": "1f1c25b5409ec7e3",
             "type": "leaf",
             "state": {
@@ -53,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Python(2).md",
+                "file": "JSP/Stream.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Python(2).md",
+                "file": "JSP/Stream.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Python(2).md"
+                "file": "JSP/Stream.md"
               }
             }
           }
@@ -182,20 +171,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1f1c25b5409ec7e3",
+  "active": "9448c42d16f79140",
   "lastOpenFiles": [
-    "기타파일/옵시디언 사용법.md",
+    "JSP/D.데이터 전송.md",
     "Python/Python(2).md",
+    "JSP/2024-02-26(화).md",
+    "기타파일/옵시디언 사용법.md",
     "Python/Python(1).md",
     "Excalidraw/Drawing 2024-02-21 20.49.16.excalidraw.md",
     "JQuery/JSON.md",
     "JQuery/Ajax.md",
     "Java/Servlet.md",
-    "JSP/2024-02-26(화).md",
     "JSP/D.레이어드 아키텍쳐.md",
     "JSP/Stream.md",
     "JSP/SOLID.md",
-    "JSP/D.데이터 전송.md",
     "JSP/2024-02-26(월).md",
     "사진 파일/수정 후 2.jpg",
     "사진 파일/수정 후 1.jpg",
