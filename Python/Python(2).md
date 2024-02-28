@@ -1,40 +1,41 @@
-2024-02-22 (목)
+2024-02-28 (수)
 <hr>
 
 
-
-
-
-
-
-<hr>
-
-
-> [!note] 변수(Variable)
+> [!note] pyqt03
 
 ```python
-a = 1
-b = 1.2
-c = '8'
-d = "hello"
-e = True
-f = False
+import sys
+from PyQt5 import uic
+from PyQt5.QtWidgets import QApplication, QMainWindow
+form_class = uic.loadUiType("./pyqt03.ui")[0]
 
-print(a+b)
-print(str(a)+c)
-print(a+int(c))
-print(d+c)
-print(e and f)
-print(e or f)
-print(not e)
+class WindowClass(QMainWindow, form_class):
+	def __init__(self):
+		super().__init__()
+		self.setupUi(self)
+		self.btn.clicked.connect(self.btnClick)
+	
+	def btnClick(self):
+		s1 = self.pte01.toPlainText()
+		s2 = self.pte02.toPlainText()
+		is1 = int(s1)
+		is2 = int(s2)
+		mul = is1 * is2
+		self.pte03.setPlainText(str(mul))
+
+if __name__ == "__main__":
+	app = QApplication(sys.argv)
+	myWindow = WindowClass()
+	myWindow.show()
+	app.exec_()
 ```
 
+`QPlainTextEdit` 값 가져오기, 내보내기 : toPlainText(), setPlainText()
 
 
-
-
-
-
+>[!tip]
+>se
 
 <hr>
 
