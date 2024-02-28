@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "60895163e1d051d7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "JSP/Drawing 2024-02-28 14.18.02.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "f5bebf0939d02f3b",
             "type": "leaf",
             "state": {
@@ -44,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/2024-02-28(수).md",
+                "file": "JSP/Drawing 2024-02-28 14.18.02.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/2024-02-28(수).md",
+                "file": "JSP/Drawing 2024-02-28 14.18.02.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/2024-02-28(수).md"
+                "file": "JSP/Drawing 2024-02-28 14.18.02.excalidraw.md"
               }
             }
           }
@@ -172,13 +182,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2bdddb68ae803482",
+  "active": "60895163e1d051d7",
   "lastOpenFiles": [
+    "JSP/2024-02-28(수).md",
+    "JSP/Drawing 2024-02-28 14.18.02.excalidraw.md",
     "용어사전/모르는 단어 한번 알아보자.md",
     "기타파일/옵시디언 사용법.md",
     "JSP/D.Tier구조.md",
     "JSP/2024-02-21(수).md",
-    "JSP/2024-02-28(수).md",
     "JSP/Stream.md",
     "Python/Python(2).md",
     "JSP/SOLID.md",
@@ -213,7 +224,6 @@
     "사진 파일/Pasted image 20240221103837.png",
     "사진 파일/Pasted image 20240221103032.png",
     "사진 파일/Pasted image 20240221102341.png",
-    "중급 프로젝트/중급프로젝트 2024-02-15.md",
     "Python",
     "사진 파일",
     "중급 프로젝트",
