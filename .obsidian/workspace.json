@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSP/Stream.md",
+                "file": "Python/Python(1).md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/Stream.md",
+                "file": "Python/Python(1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/Stream.md",
+                "file": "Python/Python(1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/Stream.md"
+                "file": "Python/Python(1).md"
               }
             }
           }
@@ -170,28 +170,31 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1f1c25b5409ec7e3",
+  "active": "4745c162c97bae2b",
   "lastOpenFiles": [
+    "Python/Python(2).md",
+    "Python/Python(1).md",
+    "Excalidraw/Drawing 2024-02-21 20.49.16.excalidraw.md",
+    "JQuery/JSON.md",
+    "JQuery/Ajax.md",
+    "Java/Servlet.md",
+    "JSP/2024-02-26(화).md",
+    "JSP/D.레이어드 아키텍쳐.md",
+    "JSP/Stream.md",
     "JSP/SOLID.md",
     "JSP/D.데이터 전송.md",
-    "JSP/2024-02-26(화).md",
-    "JSP/Stream.md",
     "JSP/2024-02-26(월).md",
     "사진 파일/수정 후 2.jpg",
     "사진 파일/수정 후 1.jpg",
     "사진 파일/수정 후.jpg",
     "사진 파일/잘못된 serlvet.jpg",
     "기타파일/옵시디언 사용법.md",
-    "Excalidraw/Drawing 2024-02-21 20.49.16.excalidraw.md",
-    "JSP/D.레이어드 아키텍쳐.md",
     "JSP/D.Tier구조.md",
     "JSP/무제 파일.canvas",
     "JSP/2024-02-23(금).md",
     "JSP/2024-02-21(수).md",
     "JSP/2024-02-22(목).md",
-    "Python/Python(2).md",
     "Python/설치 &설정.md",
-    "Python/Python(1).md",
     "Python/Python.md",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
     "Excalidraw/Scripts/Downloaded/Connect elements.md",
@@ -210,8 +213,6 @@
     "중급 프로젝트/중급프로젝트 2024-02-15.md",
     "Python",
     "중급 프로젝트/중급프로젝트 2024-02-14.md",
-    "Oracle/무제 파일.md",
-    "임베딩.md",
     "사진 파일",
     "중급 프로젝트",
     "용어사전",
