@@ -53,8 +53,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/Drawing 2024-02-29 13.55.54.excalidraw.md",
+                "file": "JSP/2024-02-29(목).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/Drawing 2024-02-29 13.55.54.excalidraw.md",
+                "file": "JSP/2024-02-29(목).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/Drawing 2024-02-29 13.55.54.excalidraw.md"
+                "file": "JSP/2024-02-29(목).md"
               }
             }
           }
@@ -182,10 +181,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "78bd1fc40fd654a2",
+  "active": "9448c42d16f79140",
   "lastOpenFiles": [
-    "JSP/2024-02-29(목).md",
     "JSP/Drawing 2024-02-29 13.55.54.excalidraw.md",
+    "JSP/2024-02-29(목).md",
     "JSP/2024-02-28(수).md",
     "용어사전/모르는 단어 한번 알아보자.md",
     "JSP/Drawing 2024-02-28 14.18.02.excalidraw.md",
