@@ -23,10 +23,8 @@
             "id": "78bd1fc40fd654a2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "JSP/D.3-Tier 5-L.A.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -41,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "right": {
     "id": "31b68a82de377f79",
@@ -108,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/D.3-Tier 5-L.A.md",
+                "file": "JSP/D.model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/D.3-Tier 5-L.A.md",
+                "file": "JSP/D.model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/D.3-Tier 5-L.A.md"
+                "file": "JSP/D.model.md"
               }
             }
           }
@@ -170,11 +168,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "78bd1fc40fd654a2",
+  "floating": {
+    "id": "cc985476ec27a4ef",
+    "type": "floating",
+    "children": [
+      {
+        "id": "7ba4ed86aac2cc6c",
+        "type": "window",
+        "children": [
+          {
+            "id": "04b9971ae2ecf5af",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "32a0c36aeadc77bf",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "JSP/D.model.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 800,
+        "y": 0,
+        "width": 1115,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "32a0c36aeadc77bf",
   "lastOpenFiles": [
     "JSP/2024-02-29(목).md",
-    "JSP/2024-02-28(수).md",
+    "JSP/D.model.md",
     "JSP/D.3-Tier 5-L.A.md",
+    "JSP/2024-02-28(수).md",
     "기타파일/옵시디언 사용법.md",
     "JSP/D.레이어드 아키텍쳐.md",
     "JSP/D.forward, redirect.md",
@@ -205,7 +239,6 @@
     "Excalidraw/Scripts/Downloaded/Connect elements.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Excalidraw/Drawing 2024-01-19 11.01.47.excalidraw.md",
     "사진 파일/Pasted image 20240221180054.png",
     "JSP",
     "사진 파일/Pasted image 20240221104006.png",
