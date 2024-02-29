@@ -32,16 +32,6 @@
             }
           },
           {
-            "id": "60895163e1d051d7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "JSP/Drawing 2024-02-28 14.18.02.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "f5bebf0939d02f3b",
             "type": "leaf",
             "state": {
@@ -53,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/2024-02-28(수).md",
+                "file": "용어사전/모르는 단어 한번 알아보자.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/2024-02-28(수).md",
+                "file": "용어사전/모르는 단어 한번 알아보자.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/2024-02-28(수).md"
+                "file": "용어사전/모르는 단어 한번 알아보자.md"
               }
             }
           }
@@ -182,19 +171,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2bdddb68ae803482",
+  "active": "9448c42d16f79140",
   "lastOpenFiles": [
-    "기타파일/옵시디언 사용법.md",
-    "JSP/Drawing 2024-02-28 14.18.02.excalidraw.md",
     "JSP/2024-02-28(수).md",
-    "용어사전/모르는 단어 한번 알아보자.md",
+    "JSP/Drawing 2024-02-28 14.18.02.excalidraw.md",
+    "JSP/D.데이터 전송.md",
+    "JSP/D.레이어드 아키텍쳐.md",
     "JSP/D.Tier구조.md",
+    "기타파일/옵시디언 사용법.md",
+    "용어사전/모르는 단어 한번 알아보자.md",
     "JSP/2024-02-21(수).md",
     "JSP/Stream.md",
     "Python/Python(2).md",
     "JSP/SOLID.md",
-    "JSP/D.레이어드 아키텍쳐.md",
-    "JSP/D.데이터 전송.md",
     "JSP/2024-02-26(화).md",
     "Python/Python(1).md",
     "Excalidraw/Drawing 2024-02-21 20.49.16.excalidraw.md",
