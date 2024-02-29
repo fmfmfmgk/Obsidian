@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "right": {
     "id": "31b68a82de377f79",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/D.model.md",
+                "file": "JSP/2024-02-29(목).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/D.model.md",
+                "file": "JSP/2024-02-29(목).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/D.model.md"
+                "file": "JSP/2024-02-29(목).md"
               }
             }
           }
@@ -168,45 +167,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "cc985476ec27a4ef",
-    "type": "floating",
-    "children": [
-      {
-        "id": "7ba4ed86aac2cc6c",
-        "type": "window",
-        "children": [
-          {
-            "id": "04b9971ae2ecf5af",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "32a0c36aeadc77bf",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "JSP/D.model.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 800,
-        "y": 0,
-        "width": 1115,
-        "height": 1040,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "32a0c36aeadc77bf",
+  "active": "9448c42d16f79140",
   "lastOpenFiles": [
-    "JSP/2024-02-29(목).md",
     "JSP/D.model.md",
+    "JSP/2024-02-29(목).md",
     "JSP/D.3-Tier 5-L.A.md",
     "JSP/2024-02-28(수).md",
     "기타파일/옵시디언 사용법.md",
