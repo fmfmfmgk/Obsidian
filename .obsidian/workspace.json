@@ -41,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/2024-02-29(목).md",
+                "file": "JSP/D.3-Tier 5-L.A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/2024-02-29(목).md",
+                "file": "JSP/D.3-Tier 5-L.A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/2024-02-29(목).md"
+                "file": "JSP/D.3-Tier 5-L.A.md"
               }
             }
           }
@@ -169,12 +170,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9448c42d16f79140",
+  "active": "78bd1fc40fd654a2",
   "lastOpenFiles": [
+    "JSP/2024-02-29(목).md",
     "JSP/2024-02-28(수).md",
     "JSP/D.3-Tier 5-L.A.md",
     "기타파일/옵시디언 사용법.md",
-    "JSP/2024-02-29(목).md",
     "JSP/D.레이어드 아키텍쳐.md",
     "JSP/D.forward, redirect.md",
     "JSP/D.데이터 전송.md",
