@@ -23,8 +23,10 @@
             "id": "78bd1fc40fd654a2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "JSP/D.model.md"
+              }
             }
           },
           {
