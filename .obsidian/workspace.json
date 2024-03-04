@@ -13,29 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSP/2024-02-29(목).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78bd1fc40fd654a2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "JSP/D.model.md"
-              }
-            }
-          },
-          {
-            "id": "2bdddb68ae803482",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JSP/2024-02-28(수).md",
+                "file": "JSP/2024-03-04(월).md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/2024-02-29(목).md",
+                "file": "JSP/2024-03-04(월).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/2024-02-29(목).md",
+                "file": "JSP/2024-03-04(월).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/2024-02-29(목).md"
+                "file": "JSP/2024-03-04(월).md"
               }
             }
           }
@@ -172,6 +150,7 @@
   "active": "9448c42d16f79140",
   "lastOpenFiles": [
     "JSP/D.model.md",
+    "JSP/2024-03-04(월).md",
     "JSP/2024-02-29(목).md",
     "JSP/D.3-Tier 5-L.A.md",
     "JSP/2024-02-28(수).md",
@@ -202,7 +181,6 @@
     "Python/설치 &설정.md",
     "Python/Python.md",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
-    "Excalidraw/Scripts/Downloaded/Connect elements.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "사진 파일/Pasted image 20240221180054.png",
