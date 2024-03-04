@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "afac16e4060cd045",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "JSP/D.JSP 요청 처리과정.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/2024-03-04(월).md",
+                "file": "JSP/D.JSP 요청 처리과정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/2024-03-04(월).md",
+                "file": "JSP/D.JSP 요청 처리과정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/2024-03-04(월).md"
+                "file": "JSP/D.JSP 요청 처리과정.md"
               }
             }
           }
@@ -147,12 +158,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9448c42d16f79140",
+  "active": "4745c162c97bae2b",
   "lastOpenFiles": [
+    "JSP/2024-03-04(월).md",
+    "JSP/D.JSP 요청 처리과정.md",
     "JSP/D.3-Tier 5-L.A.md",
     "JSP/D.model.md",
     "JSP/D.레이어드 아키텍쳐.md",
-    "JSP/2024-03-04(월).md",
     "JSP/2024-02-29(목).md",
     "JSP/2024-02-28(수).md",
     "기타파일/옵시디언 사용법.md",
@@ -179,7 +191,6 @@
     "JSP/2024-02-23(금).md",
     "JSP/2024-02-22(목).md",
     "Python/설치 &설정.md",
-    "Python/Python.md",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
