@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/무제 파일.md",
+                "file": "JSP/2024-03-04(화).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/무제 파일.md",
+                "file": "JSP/2024-03-04(화).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/무제 파일.md",
+                "file": "JSP/2024-03-04(화).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/무제 파일.md"
+                "file": "JSP/2024-03-04(화).md"
               }
             }
           }
@@ -162,9 +162,10 @@
   },
   "active": "afac16e4060cd045",
   "lastOpenFiles": [
-    "JSP/D.JSP 요청 처리과정.md",
-    "Python/무제 파일.md",
     "JSP/2024-03-04(월).md",
+    "JSP/2024-03-04(화).md",
+    "Python/무제 파일.md",
+    "JSP/D.JSP 요청 처리과정.md",
     "JSP/D.3-Tier 5-L.A.md",
     "JSP/D.model.md",
     "JSP/D.레이어드 아키텍쳐.md",
@@ -192,7 +193,6 @@
     "사진 파일/잘못된 serlvet.jpg",
     "JSP/무제 파일.canvas",
     "JSP/2024-02-23(금).md",
-    "JSP/2024-02-22(목).md",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
