@@ -23,9 +23,11 @@
             "id": "afac16e4060cd045",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "JSP/D.JSP 요청 처리과정.md"
+                "file": "Python/무제 파일.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/D.JSP 요청 처리과정.md",
+                "file": "Python/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/D.JSP 요청 처리과정.md",
+                "file": "Python/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/D.JSP 요청 처리과정.md"
+                "file": "Python/무제 파일.md"
               }
             }
           }
@@ -158,10 +160,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4745c162c97bae2b",
+  "active": "afac16e4060cd045",
   "lastOpenFiles": [
-    "JSP/2024-03-04(월).md",
     "JSP/D.JSP 요청 처리과정.md",
+    "Python/무제 파일.md",
+    "JSP/2024-03-04(월).md",
     "JSP/D.3-Tier 5-L.A.md",
     "JSP/D.model.md",
     "JSP/D.레이어드 아키텍쳐.md",
@@ -190,7 +193,6 @@
     "JSP/무제 파일.canvas",
     "JSP/2024-02-23(금).md",
     "JSP/2024-02-22(목).md",
-    "Python/설치 &설정.md",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
