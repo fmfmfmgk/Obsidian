@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "946033b6280e368a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "JSP/Drawing 2024-03-05 20.02.17.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "afac16e4060cd045",
             "type": "leaf",
             "state": {
@@ -29,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/2024-03-04(화).md",
+                "file": "JSP/Drawing 2024-03-05 20.02.17.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/2024-03-04(화).md",
+                "file": "JSP/Drawing 2024-03-05 20.02.17.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/2024-03-04(화).md"
+                "file": "JSP/Drawing 2024-03-05 20.02.17.excalidraw.md"
               }
             }
           }
@@ -157,8 +168,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9448c42d16f79140",
+  "active": "946033b6280e368a",
   "lastOpenFiles": [
+    "JSP/2024-03-04(화).md",
+    "JSP/Drawing 2024-03-05 20.02.17.excalidraw.md",
     "JSP/D.3-Tier 5-L.A.md",
     "JSP/D.데이터 전송.md",
     "JSP/D.레이어드 아키텍쳐.md",
@@ -166,7 +179,6 @@
     "JSP/D.JSP 요청 처리과정.md",
     "JSP/D.Tier구조.md",
     "JSP/D.model.md",
-    "JSP/2024-03-04(화).md",
     "JSP/Stream.md",
     "JSP/SOLID.md",
     "JSP/2024-03-04(월).md",
@@ -189,7 +201,6 @@
     "사진 파일/수정 후.jpg",
     "사진 파일/잘못된 serlvet.jpg",
     "JSP/무제 파일.canvas",
-    "JSP/2024-02-23(금).md",
     "Excalidraw/Scripts/Downloaded/Connect elements.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
