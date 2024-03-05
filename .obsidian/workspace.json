@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSP/2024-03-04(월).md",
+                "file": "JSP/2024-03-04(화).md",
                 "mode": "source",
                 "source": false
               }
@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/D.JSP 요청 처리과정.md",
+                "file": "JSP/2024-03-04(화).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/D.JSP 요청 처리과정.md",
+                "file": "JSP/2024-03-04(화).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/D.JSP 요청 처리과정.md"
+                "file": "JSP/2024-03-04(화).md"
               }
             }
           }
@@ -158,12 +157,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "afac16e4060cd045",
+  "active": "9448c42d16f79140",
   "lastOpenFiles": [
-    "JSP/2024-03-04(화).md",
     "JSP/2024-03-04(월).md",
-    "Python/무제 파일.md",
     "JSP/D.JSP 요청 처리과정.md",
+    "JSP/2024-03-04(화).md",
+    "Python/무제 파일.md",
     "JSP/D.3-Tier 5-L.A.md",
     "JSP/D.model.md",
     "JSP/D.레이어드 아키텍쳐.md",
