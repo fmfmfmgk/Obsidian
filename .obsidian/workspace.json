@@ -39,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/Drawing 2024-03-05 20.02.17.excalidraw.md",
+                "file": "JSP/2024-03-04(화).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/Drawing 2024-03-05 20.02.17.excalidraw.md",
+                "file": "JSP/2024-03-04(화).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/Drawing 2024-03-05 20.02.17.excalidraw.md"
+                "file": "JSP/2024-03-04(화).md"
               }
             }
           }
@@ -168,15 +167,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "946033b6280e368a",
+  "active": "9448c42d16f79140",
   "lastOpenFiles": [
     "JSP/Drawing 2024-03-05 20.02.17.excalidraw.md",
+    "JSP/D.JSP 요청 처리과정.md",
     "JSP/2024-03-04(화).md",
     "JSP/D.3-Tier 5-L.A.md",
     "JSP/D.데이터 전송.md",
     "JSP/D.레이어드 아키텍쳐.md",
     "JSP/D.forward, redirect.md",
-    "JSP/D.JSP 요청 처리과정.md",
     "JSP/D.Tier구조.md",
     "JSP/D.model.md",
     "JSP/Stream.md",
