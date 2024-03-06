@@ -8,24 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9448c42d16f79140",
+            "id": "946033b6280e368a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSP/2024-03-04(화).md",
+                "file": "JSP/2024-03-06(수).md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "946033b6280e368a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "JSP/Drawing 2024-03-05 20.02.17.excalidraw.md"
               }
             }
           },
@@ -39,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/Drawing 2024-03-05 20.02.17.excalidraw.md",
+                "file": "JSP/2024-03-06(수).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/Drawing 2024-03-05 20.02.17.excalidraw.md",
+                "file": "JSP/2024-03-06(수).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/Drawing 2024-03-05 20.02.17.excalidraw.md"
+                "file": "JSP/2024-03-06(수).md"
               }
             }
           }
@@ -171,6 +160,7 @@
   "active": "946033b6280e368a",
   "lastOpenFiles": [
     "JSP/2024-03-04(화).md",
+    "JSP/2024-03-06(수).md",
     "JSP/Drawing 2024-03-05 20.02.17.excalidraw.md",
     "JSP/D.JSP 요청 처리과정.md",
     "JSP/D.3-Tier 5-L.A.md",
@@ -195,7 +185,6 @@
     "JQuery/JSON.md",
     "JQuery/Ajax.md",
     "Java/Servlet.md",
-    "JSP/2024-02-26(월).md",
     "사진 파일/수정 후 2.jpg",
     "사진 파일/수정 후 1.jpg",
     "사진 파일/수정 후.jpg",
