@@ -18,6 +18,16 @@
             }
           },
           {
+            "id": "149362851c02d679",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "JSP/Drawing 2024-03-06 19.42.41.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "fd58c6b93eb7d2da",
             "type": "leaf",
             "state": {
@@ -98,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "right": {
     "id": "31b68a82de377f79",
@@ -114,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/D.3-Tier 5-L.A.md",
+                "file": "JSP/Drawing 2024-03-06 19.42.41.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/D.3-Tier 5-L.A.md",
+                "file": "JSP/Drawing 2024-03-06 19.42.41.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/D.3-Tier 5-L.A.md"
+                "file": "JSP/Drawing 2024-03-06 19.42.41.excalidraw.md"
               }
             }
           }
@@ -176,13 +187,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fd58c6b93eb7d2da",
+  "active": "149362851c02d679",
   "lastOpenFiles": [
-    "JSP/Drawing 2024-03-06 19.06.12.excalidraw.md",
     "JSP/D.MVC구조.md",
-    "JSP/D.Tier구조.md",
+    "JSP/Drawing 2024-03-06 19.42.41.excalidraw.md",
     "JSP/D.3-Tier 5-L.A.md",
     "JSP/D.JSP 요청 처리과정.md",
+    "JSP/Drawing 2024-03-06 19.06.12.excalidraw.md",
+    "JSP/D.Tier구조.md",
     "JSP/D.forward, redirect.md",
     "JSP/D.레이어드 아키텍쳐.md",
     "JSP/D.model.md",
@@ -203,7 +215,6 @@
     "Python/Python(1).md",
     "Excalidraw/Drawing 2024-02-21 20.49.16.excalidraw.md",
     "JQuery/JSON.md",
-    "JQuery/Ajax.md",
     "사진 파일/수정 후 2.jpg",
     "사진 파일/수정 후 1.jpg",
     "사진 파일/수정 후.jpg",
