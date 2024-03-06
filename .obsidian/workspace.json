@@ -39,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "right": {
     "id": "31b68a82de377f79",
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/2024-03-04(화).md",
+                "file": "JSP/Drawing 2024-03-05 20.02.17.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/2024-03-04(화).md",
+                "file": "JSP/Drawing 2024-03-05 20.02.17.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/2024-03-04(화).md"
+                "file": "JSP/Drawing 2024-03-05 20.02.17.excalidraw.md"
               }
             }
           }
@@ -168,11 +168,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9448c42d16f79140",
+  "active": "946033b6280e368a",
   "lastOpenFiles": [
+    "JSP/2024-03-04(화).md",
     "JSP/Drawing 2024-03-05 20.02.17.excalidraw.md",
     "JSP/D.JSP 요청 처리과정.md",
-    "JSP/2024-03-04(화).md",
     "JSP/D.3-Tier 5-L.A.md",
     "JSP/D.데이터 전송.md",
     "JSP/D.레이어드 아키텍쳐.md",
