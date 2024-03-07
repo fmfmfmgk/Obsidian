@@ -21,9 +21,11 @@
             "id": "149362851c02d679",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "JSP/Drawing 2024-03-06 19.42.41.excalidraw.md"
+                "file": "JSP/2024-03-06(수).md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -108,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "right": {
     "id": "31b68a82de377f79",
@@ -125,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/Drawing 2024-03-06 19.42.41.excalidraw.md",
+                "file": "JSP/2024-03-06(수).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/Drawing 2024-03-06 19.42.41.excalidraw.md",
+                "file": "JSP/2024-03-06(수).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/Drawing 2024-03-06 19.42.41.excalidraw.md"
+                "file": "JSP/2024-03-06(수).md"
               }
             }
           }
@@ -189,8 +190,8 @@
   },
   "active": "149362851c02d679",
   "lastOpenFiles": [
-    "JSP/D.MVC구조.md",
     "JSP/Drawing 2024-03-06 19.42.41.excalidraw.md",
+    "JSP/D.MVC구조.md",
     "JSP/D.3-Tier 5-L.A.md",
     "JSP/D.JSP 요청 처리과정.md",
     "JSP/Drawing 2024-03-06 19.06.12.excalidraw.md",
