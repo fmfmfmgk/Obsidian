@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "최종 프로젝트/2024-03-11(월).md",
+                "file": "JSP/2024-03-12(화).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "최종 프로젝트/2024-03-11(월).md",
+                "file": "JSP/2024-03-12(화).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "최종 프로젝트/2024-03-11(월).md"
+                "file": "JSP/2024-03-12(화).md"
               }
             }
           }
@@ -160,10 +159,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "445213390a5726ce",
+  "active": "149362851c02d679",
   "lastOpenFiles": [
-    "JSP/2024-03-11(월).md",
     "최종 프로젝트/2024-03-11(월).md",
+    "JSP/2024-03-11(월).md",
     "최종 프로젝트",
     "JSP/2024-03-12(화).md",
     "사진 파일/Pasted image 20240311112212.png",
