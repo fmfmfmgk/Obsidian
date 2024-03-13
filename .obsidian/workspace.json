@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSP/2024-03-12(화).md",
+                "file": "JSP/2024-03-13(수).md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/2024-03-12(화).md",
+                "file": "JSP/2024-03-13(수).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/2024-03-12(화).md",
+                "file": "JSP/2024-03-13(수).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/2024-03-12(화).md"
+                "file": "JSP/2024-03-13(수).md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "149362851c02d679",
   "lastOpenFiles": [
-    "JSP/2024-03-11(월).md",
     "JSP/2024-03-12(화).md",
+    "JSP/2024-03-13(수).md",
+    "JSP/2024-03-11(월).md",
     "최종 프로젝트/2024-03-11(월).md",
     "최종 프로젝트",
     "사진 파일/Pasted image 20240311112212.png",
@@ -188,7 +189,6 @@
     "기타파일/옵시디언 사용법.md",
     "용어사전/모르는 단어 한번 알아보자.md",
     "JSP/2024-02-21(수).md",
-    "Python/Python(2).md",
     "사진 파일/수정 후 2.jpg",
     "사진 파일/수정 후 1.jpg",
     "사진 파일/수정 후.jpg",
