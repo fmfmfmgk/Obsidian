@@ -155,46 +155,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "99dba26f7f4d9aa1",
-    "type": "floating",
-    "children": [
-      {
-        "id": "c6facfb95b525fc3",
-        "type": "window",
-        "children": [
-          {
-            "id": "1ad44861aef49e01",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6f369fd1a434f8c7",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 212,
-        "y": 38,
-        "width": 1680,
-        "height": 977,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "149362851c02d679",
   "lastOpenFiles": [
+    "JSP/Drawing 2024-03-13 11.12.24.excalidraw.md",
+    "JSP/D.Exception.md",
     "JSP/D.forward, redirect.md",
     "JSP/D.JSP 요청 처리과정.md",
     "JSP/D.model.md",
     "JSP/D.MVC구조.md",
-    "JSP/Drawing 2024-03-13 11.12.24.excalidraw.md",
     "JSP/Drawing 2024-03-06 19.42.41.excalidraw.md",
     "JSP/Drawing 2024-03-15 09.33.09.excalidraw.md",
     "JSP/D.3-Tier 5-L.A.md",
@@ -220,7 +188,6 @@
     "사진 파일/Pasted image 20240311112212.png",
     "JSP/Drawing 2024-03-06 19.06.12.excalidraw.md",
     "JSP/D.Tier구조.md",
-    "JSP/D.레이어드 아키텍쳐.md",
     "사진 파일/수정 후 2.jpg",
     "사진 파일/수정 후 1.jpg",
     "사진 파일/수정 후.jpg",
