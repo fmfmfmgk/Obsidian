@@ -11,11 +11,9 @@
             "id": "bdde1f4b1751738a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "JSP/2024-03-22(금).md",
-                "mode": "source",
-                "source": false
+                "file": "JSP/Drawing 2024-03-18 09.05.59.excalidraw.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/2024-03-22(금).md",
+                "file": "JSP/Drawing 2024-03-18 09.05.59.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/2024-03-22(금).md",
+                "file": "JSP/Drawing 2024-03-18 09.05.59.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/2024-03-22(금).md"
+                "file": "JSP/Drawing 2024-03-18 09.05.59.excalidraw.md"
               }
             }
           }
@@ -149,9 +147,11 @@
   },
   "active": "bdde1f4b1751738a",
   "lastOpenFiles": [
+    "JSP/D.데이터 전송.md",
+    "JSP/D.3-Tier 5-L.A.md",
+    "JSP/2024-03-22(금).md",
     "JSP/2024-03-20(수).md",
     "JSP/2024-03-21(목).md",
-    "JSP/2024-03-22(금).md",
     "기타파일/옵시디언 사용법.md",
     "JSP/SOLID.md",
     "JSP/Stream.md",
@@ -165,8 +165,6 @@
     "JSP/D.forward, redirect.md",
     "JSP/D.Exception.md",
     "JSP/D.레이어드 아키텍쳐.md",
-    "JSP/D.데이터 전송.md",
-    "JSP/D.3-Tier 5-L.A.md",
     "JSP/2024-03-19(화).md",
     "JSP/2024-03-18(월).md",
     "JSP/Drawing 2024-03-15 09.33.09.excalidraw.md",
