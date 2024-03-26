@@ -122,6 +122,14 @@ request와 response에 대한 책임이
 Servlet과 JSP로 나누어지는(책임의 분리)
 Model2 구조 ^9xYa748b
 
+Domain Layer ^ON9Zqsdw
+
+Business logic 
+Layer ^FI8zGtyS
+
+Persistence
+Layer ^1JrRbnBO
+
 %%
 # Drawing
 ```json
@@ -215,8 +223,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "ellipse",
-			"version": 165,
-			"versionNonce": 156945462,
+			"version": 169,
+			"versionNonce": 2006055251,
 			"isDeleted": false,
 			"id": "0qtsbLZthTpYxGaPoYmgw",
 			"fillStyle": "solid",
@@ -249,7 +257,7 @@ Model2 구조 ^9xYa748b
 					"type": "arrow"
 				}
 			],
-			"updated": 1710892367174,
+			"updated": 1711411357377,
 			"link": null,
 			"locked": false
 		},
@@ -294,8 +302,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "ellipse",
-			"version": 230,
-			"versionNonce": 2011157878,
+			"version": 234,
+			"versionNonce": 206395123,
 			"isDeleted": false,
 			"id": "X7JKwZ6Ri8hjc0gPn1lGL",
 			"fillStyle": "solid",
@@ -332,14 +340,14 @@ Model2 구조 ^9xYa748b
 					"type": "arrow"
 				}
 			],
-			"updated": 1710892367174,
+			"updated": 1711411357377,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 243,
-			"versionNonce": 1456137450,
+			"version": 247,
+			"versionNonce": 110966739,
 			"isDeleted": false,
 			"id": "dccfdGiH",
 			"fillStyle": "solid",
@@ -361,7 +369,7 @@ Model2 구조 ^9xYa748b
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892367174,
+			"updated": 1711411357377,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -377,8 +385,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "ellipse",
-			"version": 225,
-			"versionNonce": 2071049910,
+			"version": 229,
+			"versionNonce": 1147979123,
 			"isDeleted": false,
 			"id": "zMKCBeuXH7E4SNH1Qgkt8",
 			"fillStyle": "solid",
@@ -411,7 +419,7 @@ Model2 구조 ^9xYa748b
 					"type": "arrow"
 				}
 			],
-			"updated": 1710892367174,
+			"updated": 1711411357377,
 			"link": null,
 			"locked": false
 		},
@@ -654,8 +662,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "arrow",
-			"version": 483,
-			"versionNonce": 369369066,
+			"version": 487,
+			"versionNonce": 394556979,
 			"isDeleted": false,
 			"id": "HRycwvaZrH-NDBuDS0Sl7",
 			"fillStyle": "solid",
@@ -677,7 +685,7 @@ Model2 구조 ^9xYa748b
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892367174,
+			"updated": 1711411357377,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -702,8 +710,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "arrow",
-			"version": 508,
-			"versionNonce": 1404939190,
+			"version": 512,
+			"versionNonce": 1493958803,
 			"isDeleted": false,
 			"id": "HhpW3GwZALjLESNw8XvMZ",
 			"fillStyle": "solid",
@@ -725,7 +733,7 @@ Model2 구조 ^9xYa748b
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892367174,
+			"updated": 1711411357377,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1157,8 +1165,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "arrow",
-			"version": 204,
-			"versionNonce": 1607051370,
+			"version": 220,
+			"versionNonce": 1910109395,
 			"isDeleted": false,
 			"id": "KaZknsiJZdMW56VYb0ITE",
 			"fillStyle": "solid",
@@ -1180,7 +1188,7 @@ Model2 구조 ^9xYa748b
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892367174,
+			"updated": 1711411357377,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1209,8 +1217,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "arrow",
-			"version": 212,
-			"versionNonce": 424864566,
+			"version": 228,
+			"versionNonce": 1865096211,
 			"isDeleted": false,
 			"id": "eTugcYkRE1NZoH2RVqaUr",
 			"fillStyle": "solid",
@@ -1232,7 +1240,7 @@ Model2 구조 ^9xYa748b
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892367174,
+			"updated": 1711411357377,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1261,8 +1269,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "arrow",
-			"version": 109,
-			"versionNonce": 168626986,
+			"version": 125,
+			"versionNonce": 1992929747,
 			"isDeleted": false,
 			"id": "gscvzrr0pbzusj2PsIY9n",
 			"fillStyle": "solid",
@@ -1284,7 +1292,7 @@ Model2 구조 ^9xYa748b
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892367174,
+			"updated": 1711411357378,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1313,8 +1321,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "arrow",
-			"version": 116,
-			"versionNonce": 830215286,
+			"version": 132,
+			"versionNonce": 2131728659,
 			"isDeleted": false,
 			"id": "6qdvSSh_gCOnvy4_FG8yw",
 			"fillStyle": "solid",
@@ -1336,7 +1344,7 @@ Model2 구조 ^9xYa748b
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892367174,
+			"updated": 1711411357378,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1404,8 +1412,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "arrow",
-			"version": 123,
-			"versionNonce": 1429083574,
+			"version": 139,
+			"versionNonce": 237959827,
 			"isDeleted": false,
 			"id": "rEGH6ocHTqE7KJD0uUR_a",
 			"fillStyle": "solid",
@@ -1427,7 +1435,7 @@ Model2 구조 ^9xYa748b
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892367174,
+			"updated": 1711411357378,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1695,8 +1703,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "arrow",
-			"version": 533,
-			"versionNonce": 518967530,
+			"version": 537,
+			"versionNonce": 1748606739,
 			"isDeleted": false,
 			"id": "7L9G6QMAoMeid77C6eKUG",
 			"fillStyle": "solid",
@@ -1718,7 +1726,7 @@ Model2 구조 ^9xYa748b
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892367174,
+			"updated": 1711411357377,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2172,8 +2180,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "rectangle",
-			"version": 230,
-			"versionNonce": 1000719274,
+			"version": 256,
+			"versionNonce": 2137097299,
 			"isDeleted": false,
 			"id": "aGlspuQrTlnT7PHDGfi0L",
 			"fillStyle": "hachure",
@@ -2182,27 +2190,25 @@ Model2 구조 ^9xYa748b
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -373.8824617094573,
-			"y": 825.6408813342832,
+			"x": -375.7872236142192,
+			"y": 798.9742146676167,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
 			"width": 209.99999999999994,
 			"height": 351.2499999999997,
 			"seed": 1953220512,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362233,
+			"updated": 1711411257633,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 168,
-			"versionNonce": 574865002,
+			"version": 169,
+			"versionNonce": 1746526269,
 			"isDeleted": false,
 			"id": "HoAo9H2y8ER5cb0F9iXv9",
 			"fillStyle": "solid",
@@ -2218,9 +2224,7 @@ Model2 구조 ^9xYa748b
 			"width": 125.55555555555554,
 			"height": 154.4444444444445,
 			"seed": 858042976,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 3
@@ -2231,22 +2235,18 @@ Model2 구조 ^9xYa748b
 					"id": "Y1MvwTvg"
 				},
 				{
-					"id": "NC06orgDS4cb8NGP0qNc8",
-					"type": "arrow"
-				},
-				{
 					"id": "O1-J1raTXcyDW024o6A_K",
 					"type": "arrow"
 				}
 			],
-			"updated": 1710892362233,
+			"updated": 1711411240813,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 165,
-			"versionNonce": 1624531242,
+			"version": 166,
+			"versionNonce": 656477715,
 			"isDeleted": false,
 			"id": "Y1MvwTvg",
 			"fillStyle": "solid",
@@ -2262,13 +2262,11 @@ Model2 구조 ^9xYa748b
 			"width": 15.623992919921875,
 			"height": 43.199999999999996,
 			"seed": 614426208,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362233,
+			"updated": 1711411240813,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -2284,8 +2282,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "ellipse",
-			"version": 241,
-			"versionNonce": 1870936426,
+			"version": 246,
+			"versionNonce": 1518403251,
 			"isDeleted": false,
 			"id": "AIegpvRVwCmcQFNm-6421",
 			"fillStyle": "solid",
@@ -2301,9 +2299,7 @@ Model2 구조 ^9xYa748b
 			"width": 166.66666666666663,
 			"height": 97.77777777777783,
 			"seed": 2091096672,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
@@ -2318,14 +2314,14 @@ Model2 구조 ^9xYa748b
 					"type": "arrow"
 				}
 			],
-			"updated": 1710892362233,
+			"updated": 1711411357378,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 211,
-			"versionNonce": 1179483178,
+			"version": 212,
+			"versionNonce": 1251726259,
 			"isDeleted": false,
 			"id": "SeWtL2ua",
 			"fillStyle": "solid",
@@ -2341,13 +2337,11 @@ Model2 구조 ^9xYa748b
 			"width": 30.139984130859375,
 			"height": 25,
 			"seed": 771837536,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362233,
+			"updated": 1711411240813,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2363,8 +2357,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "ellipse",
-			"version": 306,
-			"versionNonce": 1616930538,
+			"version": 311,
+			"versionNonce": 972337235,
 			"isDeleted": false,
 			"id": "ShwXnbrMX_M_eqVURBgp2",
 			"fillStyle": "solid",
@@ -2380,9 +2374,7 @@ Model2 구조 ^9xYa748b
 			"width": 166.66666666666663,
 			"height": 97.77777777777783,
 			"seed": 1367900768,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
@@ -2401,14 +2393,14 @@ Model2 구조 ^9xYa748b
 					"type": "arrow"
 				}
 			],
-			"updated": 1710892362233,
+			"updated": 1711411357378,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 319,
-			"versionNonce": 1984428458,
+			"version": 324,
+			"versionNonce": 581864755,
 			"isDeleted": false,
 			"id": "d0BHbIxE",
 			"fillStyle": "solid",
@@ -2424,13 +2416,11 @@ Model2 구조 ^9xYa748b
 			"width": 102.17990112304688,
 			"height": 25,
 			"seed": 1711879776,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362233,
+			"updated": 1711411357378,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2446,8 +2436,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "ellipse",
-			"version": 301,
-			"versionNonce": 264806890,
+			"version": 306,
+			"versionNonce": 1919708883,
 			"isDeleted": false,
 			"id": "fQTRmiBhY6E_zGJXjlFEd",
 			"fillStyle": "solid",
@@ -2463,9 +2453,7 @@ Model2 구조 ^9xYa748b
 			"width": 166.66666666666663,
 			"height": 97.77777777777783,
 			"seed": 273902176,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
@@ -2480,14 +2468,14 @@ Model2 구조 ^9xYa748b
 					"type": "arrow"
 				}
 			],
-			"updated": 1710892362233,
+			"updated": 1711411357378,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 291,
-			"versionNonce": 586208426,
+			"version": 292,
+			"versionNonce": 1282065139,
 			"isDeleted": false,
 			"id": "JwoEheLI",
 			"fillStyle": "solid",
@@ -2503,13 +2491,11 @@ Model2 구조 ^9xYa748b
 			"width": 26.059967041015625,
 			"height": 25,
 			"seed": 1530338912,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362233,
+			"updated": 1711411240813,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2525,8 +2511,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "rectangle",
-			"version": 204,
-			"versionNonce": 319537782,
+			"version": 209,
+			"versionNonce": 1219685683,
 			"isDeleted": false,
 			"id": "xngkWR8AQ25NDsZcSxqY9",
 			"fillStyle": "solid",
@@ -2542,16 +2528,10 @@ Model2 구조 ^9xYa748b
 			"width": 855.5555555555555,
 			"height": 497.7777777777779,
 			"seed": 2005160544,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [
-				{
-					"id": "O1-J1raTXcyDW024o6A_K",
-					"type": "arrow"
-				},
 				{
 					"id": "dgxEt3RTo3I7pX9Mf2CVT",
 					"type": "arrow"
@@ -2561,18 +2541,22 @@ Model2 구조 ^9xYa748b
 					"type": "arrow"
 				},
 				{
-					"id": "NC06orgDS4cb8NGP0qNc8",
+					"id": "fACcxvU7Em0W1Os7-LihY",
+					"type": "arrow"
+				},
+				{
+					"id": "O1-J1raTXcyDW024o6A_K",
 					"type": "arrow"
 				}
 			],
-			"updated": 1710892362357,
+			"updated": 1711411301932,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 232,
-			"versionNonce": 1203461354,
+			"version": 233,
+			"versionNonce": 177990803,
 			"isDeleted": false,
 			"id": "o3czdBtI",
 			"fillStyle": "solid",
@@ -2588,13 +2572,11 @@ Model2 구조 ^9xYa748b
 			"width": 112.30795288085938,
 			"height": 33.6,
 			"seed": 2081097312,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362233,
+			"updated": 1711411240813,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2610,8 +2592,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "text",
-			"version": 166,
-			"versionNonce": 1658073002,
+			"version": 167,
+			"versionNonce": 1859459613,
 			"isDeleted": false,
 			"id": "eid8fjs8",
 			"fillStyle": "solid",
@@ -2627,13 +2609,11 @@ Model2 구조 ^9xYa748b
 			"width": 104.90119934082031,
 			"height": 46.222222222222214,
 			"seed": 630930016,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362233,
+			"updated": 1711411240813,
 			"link": null,
 			"locked": false,
 			"fontSize": 38.51851851851851,
@@ -2649,8 +2629,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "text",
-			"version": 160,
-			"versionNonce": 818195050,
+			"version": 161,
+			"versionNonce": 1748427315,
 			"isDeleted": false,
 			"id": "fQppDkhs",
 			"fillStyle": "solid",
@@ -2666,13 +2646,11 @@ Model2 구조 ^9xYa748b
 			"width": 206.45993041992188,
 			"height": 43.199999999999996,
 			"seed": 386199136,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362233,
+			"updated": 1711411240813,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -2688,8 +2666,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "text",
-			"version": 310,
-			"versionNonce": 1213713706,
+			"version": 311,
+			"versionNonce": 80072317,
 			"isDeleted": false,
 			"id": "ubQjWacm",
 			"fillStyle": "solid",
@@ -2705,13 +2683,11 @@ Model2 구조 ^9xYa748b
 			"width": 62.9639892578125,
 			"height": 43.199999999999996,
 			"seed": 421012064,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362233,
+			"updated": 1711411240813,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -2727,8 +2703,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "arrow",
-			"version": 636,
-			"versionNonce": 1430691318,
+			"version": 642,
+			"versionNonce": 100644733,
 			"isDeleted": false,
 			"id": "dgxEt3RTo3I7pX9Mf2CVT",
 			"fillStyle": "solid",
@@ -2737,28 +2713,30 @@ Model2 구조 ^9xYa748b
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 443.86168502618705,
-			"y": 1101.07538841941,
+			"x": 443.90393596653433,
+			"y": 1101.0753058756477,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 178.13584883934334,
-			"height": 0.3480159986192177,
+			"width": 178.17809977969063,
+			"height": 0.3480985423815639,
 			"seed": 2037426784,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362356,
+			"updated": 1711411391933,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "ShwXnbrMX_M_eqVURBgp2",
-				"focus": 0.1746654004067176,
-				"gap": 22.659374721787074
+				"gap": 22.659374721787074,
+				"focus": 0.1746654004067176
 			},
-			"endBinding": null,
+			"endBinding": {
+				"elementId": "89w4xivoSBDkCS5lr-4Fu",
+				"focus": 0.7200771448938689,
+				"gap": 25.32022538820297
+			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": "arrow",
@@ -2768,15 +2746,15 @@ Model2 구조 ^9xYa748b
 					0
 				],
 				[
-					-178.13584883934334,
-					0.3480159986192177
+					-178.17809977969063,
+					0.3480985423815639
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 660,
-			"versionNonce": 32206646,
+			"version": 665,
+			"versionNonce": 2134978035,
 			"isDeleted": false,
 			"id": "WPUxn-tDjg7BJz5tnYBgh",
 			"fillStyle": "solid",
@@ -2789,23 +2767,21 @@ Model2 구조 ^9xYa748b
 			"y": 1140.7321900667205,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 182.76698048665202,
-			"height": 4.18861745759591,
+			"width": 183.15672799890814,
+			"height": 4.197549613883211,
 			"seed": 813369952,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362356,
+			"updated": 1711411357378,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
 			"endBinding": {
 				"elementId": "ShwXnbrMX_M_eqVURBgp2",
-				"focus": -0.5111425563845905,
-				"gap": 17.805262686384765
+				"gap": 17.805262686384765,
+				"focus": -0.5111425563845905
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -2816,15 +2792,15 @@ Model2 구조 ^9xYa748b
 					0
 				],
 				[
-					182.76698048665202,
-					-4.18861745759591
+					183.15672799890814,
+					-4.197549613883211
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 188,
-			"versionNonce": 808396138,
+			"version": 189,
+			"versionNonce": 1148465523,
 			"isDeleted": false,
 			"id": "MrLKBXLR",
 			"fillStyle": "solid",
@@ -2840,9 +2816,7 @@ Model2 구조 ^9xYa748b
 			"width": 37.91197204589844,
 			"height": 33.6,
 			"seed": 1433058912,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [
@@ -2851,7 +2825,7 @@ Model2 구조 ^9xYa748b
 					"type": "arrow"
 				}
 			],
-			"updated": 1710892362233,
+			"updated": 1711411240813,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2867,8 +2841,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "text",
-			"version": 190,
-			"versionNonce": 180021290,
+			"version": 191,
+			"versionNonce": 288887613,
 			"isDeleted": false,
 			"id": "tYgDdNKU",
 			"fillStyle": "solid",
@@ -2884,13 +2858,11 @@ Model2 구조 ^9xYa748b
 			"width": 46.843963623046875,
 			"height": 33.6,
 			"seed": 709096032,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362233,
+			"updated": 1711411240813,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2906,8 +2878,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "rectangle",
-			"version": 187,
-			"versionNonce": 205542122,
+			"version": 188,
+			"versionNonce": 1282640659,
 			"isDeleted": false,
 			"id": "-E4jTYKlWBZla1RtL96Tr",
 			"fillStyle": "hachure",
@@ -2923,9 +2895,7 @@ Model2 구조 ^9xYa748b
 			"width": 115.82007398597203,
 			"height": 60.05438083910684,
 			"seed": 1977001568,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [
@@ -2942,14 +2912,14 @@ Model2 구조 ^9xYa748b
 					"type": "arrow"
 				}
 			],
-			"updated": 1710892362233,
+			"updated": 1711411240813,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 196,
-			"versionNonce": 2001364394,
+			"version": 197,
+			"versionNonce": 246195101,
 			"isDeleted": false,
 			"id": "ZB2rizEc",
 			"fillStyle": "solid",
@@ -2965,13 +2935,11 @@ Model2 구조 ^9xYa748b
 			"width": 84.783935546875,
 			"height": 33.6,
 			"seed": 619895392,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362233,
+			"updated": 1711411240813,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -2987,8 +2955,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "rectangle",
-			"version": 173,
-			"versionNonce": 1179815402,
+			"version": 190,
+			"versionNonce": 327757363,
 			"isDeleted": false,
 			"id": "bDslLXShu9AFm4Ktm4Dbh",
 			"fillStyle": "hachure",
@@ -2997,16 +2965,14 @@ Model2 구조 ^9xYa748b
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 74.17521831123747,
-			"y": 895.5199979165054,
+			"x": 97.03236116838036,
+			"y": 897.4247598212672,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffc9c9",
 			"width": 103.33333333333337,
 			"height": 74.44444444444446,
 			"seed": 174624352,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [
@@ -3019,14 +2985,14 @@ Model2 구조 ^9xYa748b
 					"type": "arrow"
 				}
 			],
-			"updated": 1710892362233,
+			"updated": 1711411394585,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 164,
-			"versionNonce": 1230848170,
+			"version": 181,
+			"versionNonce": 290123731,
 			"isDeleted": false,
 			"id": "nNPWbIxR",
 			"fillStyle": "solid",
@@ -3035,20 +3001,18 @@ Model2 구조 ^9xYa748b
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 103.79189718493541,
-			"y": 915.9422201387276,
+			"x": 126.6490400420783,
+			"y": 917.8469820434894,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 44.0999755859375,
 			"height": 33.6,
 			"seed": 520602208,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362233,
+			"updated": 1711411394585,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3064,8 +3028,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "rectangle",
-			"version": 186,
-			"versionNonce": 982556202,
+			"version": 224,
+			"versionNonce": 934163613,
 			"isDeleted": false,
 			"id": "lpfaixgnnsg40pCAd3e-k",
 			"fillStyle": "hachure",
@@ -3074,16 +3038,14 @@ Model2 구조 ^9xYa748b
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": -331.3803372443182,
-			"y": 894.4088868053939,
+			"x": -336.14224200622294,
+			"y": 865.8374582339654,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffc9c9",
 			"width": 132.22222222222217,
 			"height": 78,
 			"seed": 1101035104,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [
@@ -3098,20 +3060,16 @@ Model2 구조 ^9xYa748b
 				{
 					"id": "lOuoD58DGHqxZtZotE7Am",
 					"type": "arrow"
-				},
-				{
-					"id": "O1-J1raTXcyDW024o6A_K",
-					"type": "arrow"
 				}
 			],
-			"updated": 1710892362233,
+			"updated": 1711411304644,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 225,
-			"versionNonce": 1676626154,
+			"version": 260,
+			"versionNonce": 1161769555,
 			"isDeleted": false,
 			"id": "b9h0uXTu",
 			"fillStyle": "solid",
@@ -3120,20 +3078,18 @@ Model2 구조 ^9xYa748b
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": -308.6271896952188,
-			"y": 916.6088868053939,
+			"x": -313.3890944571236,
+			"y": 888.0374582339655,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 86.71592712402344,
 			"height": 33.6,
 			"seed": 1996663392,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362233,
+			"updated": 1711411267108,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3149,8 +3105,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "rectangle",
-			"version": 242,
-			"versionNonce": 198607850,
+			"version": 279,
+			"versionNonce": 1771437885,
 			"isDeleted": false,
 			"id": "AnAiSLY7_ZyNvOevc2FsX",
 			"fillStyle": "hachure",
@@ -3159,16 +3115,14 @@ Model2 구조 ^9xYa748b
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": -335.9872379104225,
-			"y": 1047.1652024729037,
+			"x": -340.74914267232725,
+			"y": 1018.5937739014753,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffc9c9",
 			"width": 132.22222222222217,
 			"height": 78,
 			"seed": 704536160,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [
@@ -3181,18 +3135,18 @@ Model2 구조 ^9xYa748b
 					"type": "arrow"
 				},
 				{
-					"id": "NC06orgDS4cb8NGP0qNc8",
+					"id": "fACcxvU7Em0W1Os7-LihY",
 					"type": "arrow"
 				}
 			],
-			"updated": 1710892362233,
+			"updated": 1711411281685,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 266,
-			"versionNonce": 1727166122,
+			"version": 301,
+			"versionNonce": 619814323,
 			"isDeleted": false,
 			"id": "03gqntwl",
 			"fillStyle": "solid",
@@ -3201,20 +3155,18 @@ Model2 구조 ^9xYa748b
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": -292.0381141039989,
-			"y": 1069.3652024729038,
+			"x": -296.80001886590367,
+			"y": 1040.7937739014753,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 44.323974609375,
 			"height": 33.6,
 			"seed": 1801687648,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362233,
+			"updated": 1711411267109,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3230,8 +3182,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "arrow",
-			"version": 432,
-			"versionNonce": 209033654,
+			"version": 481,
+			"versionNonce": 2094618387,
 			"isDeleted": false,
 			"id": "Hn0qrAKNQIEomTu8USlpa",
 			"fillStyle": "solid",
@@ -3240,31 +3192,29 @@ Model2 구조 ^9xYa748b
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": 73.17521831123747,
-			"y": 932.9884326205711,
+			"x": 96.03236116838036,
+			"y": 934.3753995334428,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 68.61832814301627,
-			"height": 0.2773208448650166,
+			"width": 91.47547100015916,
+			"height": 0.4856039864921513,
 			"seed": 839009888,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362356,
+			"updated": 1711411394585,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "bDslLXShu9AFm4Ktm4Dbh",
-				"focus": -0.000891245695519696,
-				"gap": 1
+				"gap": 1,
+				"focus": -0.000891245695519696
 			},
 			"endBinding": {
 				"elementId": "-E4jTYKlWBZla1RtL96Tr",
-				"focus": 0.13432835820893846,
-				"gap": 7.777777777777921
+				"gap": 7.777777777777921,
+				"focus": 0.13432835820893846
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -3275,15 +3225,15 @@ Model2 구조 ^9xYa748b
 					0
 				],
 				[
-					-68.61832814301627,
-					0.2773208448650166
+					-91.47547100015916,
+					-0.4856039864921513
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 442,
-			"versionNonce": 1565991990,
+			"version": 527,
+			"versionNonce": 919812467,
 			"isDeleted": false,
 			"id": "6P2IyL0ED3RtK-nAkwQ92",
 			"fillStyle": "solid",
@@ -3293,30 +3243,28 @@ Model2 구조 ^9xYa748b
 			"opacity": 100,
 			"angle": 0,
 			"x": -120.15207270663973,
-			"y": 931.2276316063269,
+			"y": 923.4108901310917,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 75.11715342656743,
-			"height": 1.5119880826607641,
+			"width": 79.87905818847219,
+			"height": 13.26882317415459,
 			"seed": 447380064,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362356,
+			"updated": 1711411357379,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "-E4jTYKlWBZla1RtL96Tr",
-				"focus": -0.09455199682643528,
-				"gap": 1.1111111111109722
+				"gap": 1.1111111111109722,
+				"focus": -0.09455199682643528
 			},
 			"endBinding": {
 				"elementId": "lpfaixgnnsg40pCAd3e-k",
-				"focus": -0.12650982702748145,
-				"gap": 3.8888888888888573
+				"gap": 3.8888888888888573,
+				"focus": -0.12650982702748145
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -3327,15 +3275,15 @@ Model2 구조 ^9xYa748b
 					0
 				],
 				[
-					-75.11715342656743,
-					-1.5119880826607641
+					-79.87905818847219,
+					-13.26882317415459
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 393,
-			"versionNonce": 238554806,
+			"version": 514,
+			"versionNonce": 1034774515,
 			"isDeleted": false,
 			"id": "lOuoD58DGHqxZtZotE7Am",
 			"fillStyle": "solid",
@@ -3344,31 +3292,29 @@ Model2 구조 ^9xYa748b
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": -266.8088028236094,
-			"y": 977.1866645831717,
+			"x": -271.5707075855142,
+			"y": 948.6152360117433,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 0.8284670616642984,
 			"height": 60.08964900084311,
 			"seed": 673984096,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362356,
+			"updated": 1711411357379,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "lpfaixgnnsg40pCAd3e-k",
-				"focus": 0.03215584699162541,
-				"gap": 4.777777777777828
+				"gap": 4.777777777777828,
+				"focus": 0.03215584699162541
 			},
 			"endBinding": {
 				"elementId": "AnAiSLY7_ZyNvOevc2FsX",
-				"focus": 0.06856583136070545,
-				"gap": 9.888888888888914
+				"gap": 9.888888888888914,
+				"focus": 0.06856583136070545
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -3385,61 +3331,9 @@ Model2 구조 ^9xYa748b
 			]
 		},
 		{
-			"type": "arrow",
-			"version": 414,
-			"versionNonce": 1858099510,
-			"isDeleted": false,
-			"id": "NC06orgDS4cb8NGP0qNc8",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 2,
-			"opacity": 100,
-			"angle": 0,
-			"x": -346.5427934659782,
-			"y": 1085.7594891971178,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 170.9486548894513,
-			"height": 57.75662577543608,
-			"seed": 56058464,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1710892362357,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "AnAiSLY7_ZyNvOevc2FsX",
-				"focus": -0.41568959588749227,
-				"gap": 10.555555555555713
-			},
-			"endBinding": {
-				"elementId": "xngkWR8AQ25NDsZcSxqY9",
-				"focus": 0.5776660936732214,
-				"gap": 25.854385558367085
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-170.9486548894513,
-					-57.75662577543608
-				]
-			]
-		},
-		{
 			"type": "text",
-			"version": 98,
-			"versionNonce": 897874410,
+			"version": 99,
+			"versionNonce": 347267283,
 			"isDeleted": false,
 			"id": "AsugSVTv",
 			"fillStyle": "solid",
@@ -3455,13 +3349,11 @@ Model2 구조 ^9xYa748b
 			"width": 56.78398132324219,
 			"height": 33.6,
 			"seed": 989599328,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362233,
+			"updated": 1711411240813,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3477,8 +3369,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "arrow",
-			"version": 369,
-			"versionNonce": 361372918,
+			"version": 669,
+			"versionNonce": 865431901,
 			"isDeleted": false,
 			"id": "O1-J1raTXcyDW024o6A_K",
 			"fillStyle": "solid",
@@ -3487,32 +3379,26 @@ Model2 구조 ^9xYa748b
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": -508.6025594665407,
-			"y": 933.8533312498382,
+			"x": -509.2323008923006,
+			"y": 926.1822910041464,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 158.88888888888903,
-			"height": 0,
+			"width": 150.93716140386334,
+			"height": 29.176712300549866,
 			"seed": 65686112,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362357,
+			"updated": 1711411305110,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "xngkWR8AQ25NDsZcSxqY9",
-				"focus": -0.08095747098779082,
-				"gap": 16.965496669478284
+				"focus": -0.34354525897300786,
+				"gap": 17.595238095238187
 			},
-			"endBinding": {
-				"elementId": "lpfaixgnnsg40pCAd3e-k",
-				"focus": -0.011396011396008805,
-				"gap": 18.333333333333485
-			},
+			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": "arrow",
@@ -3522,15 +3408,15 @@ Model2 구조 ^9xYa748b
 					0
 				],
 				[
-					158.88888888888903,
-					0
+					150.93716140386334,
+					-29.176712300549866
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 291,
-			"versionNonce": 178947946,
+			"version": 332,
+			"versionNonce": 773723069,
 			"isDeleted": false,
 			"id": "Wxxp70tj",
 			"fillStyle": "solid",
@@ -3539,20 +3425,18 @@ Model2 구조 ^9xYa748b
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": -442.02454127806425,
-			"y": 1060.3866645831715,
+			"x": -457.2626365161595,
+			"y": 1032.767616964124,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 46.843963623046875,
 			"height": 33.6,
 			"seed": 2029125216,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362233,
+			"updated": 1711411276884,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3568,8 +3452,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "text",
-			"version": 220,
-			"versionNonce": 58329642,
+			"version": 232,
+			"versionNonce": 1910574077,
 			"isDeleted": false,
 			"id": "5JYQmyvs",
 			"fillStyle": "solid",
@@ -3578,20 +3462,18 @@ Model2 구조 ^9xYa748b
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": -446.4474343783787,
-			"y": 892.6088868053937,
+			"x": -444.5426724736168,
+			"y": 911.6565058530125,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 37.91197204589844,
 			"height": 33.6,
 			"seed": 1524839008,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362233,
+			"updated": 1711411305930,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3607,8 +3489,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "text",
-			"version": 461,
-			"versionNonce": 617297130,
+			"version": 462,
+			"versionNonce": 1236862995,
 			"isDeleted": false,
 			"id": "dRjcpzt2",
 			"fillStyle": "solid",
@@ -3624,13 +3506,11 @@ Model2 구조 ^9xYa748b
 			"width": 92.70794677734375,
 			"height": 33.6,
 			"seed": 1351476832,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362233,
+			"updated": 1711411240814,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3646,8 +3526,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "text",
-			"version": 297,
-			"versionNonce": 1076430762,
+			"version": 298,
+			"versionNonce": 273249949,
 			"isDeleted": false,
 			"id": "yWydjCNU",
 			"fillStyle": "solid",
@@ -3663,13 +3543,11 @@ Model2 구조 ^9xYa748b
 			"width": 37.91197204589844,
 			"height": 33.6,
 			"seed": 650254944,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362233,
+			"updated": 1711411240814,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3685,8 +3563,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "text",
-			"version": 286,
-			"versionNonce": 1035895402,
+			"version": 287,
+			"versionNonce": 203722163,
 			"isDeleted": false,
 			"id": "2tMr5X0L",
 			"fillStyle": "solid",
@@ -3702,13 +3580,11 @@ Model2 구조 ^9xYa748b
 			"width": 46.843963623046875,
 			"height": 33.6,
 			"seed": 273665632,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362233,
+			"updated": 1711411240814,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3724,8 +3600,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "arrow",
-			"version": 641,
-			"versionNonce": 1213637930,
+			"version": 643,
+			"versionNonce": 432782397,
 			"isDeleted": false,
 			"id": "88mpiPLpHOvLzYTidFmcz",
 			"fillStyle": "solid",
@@ -3741,17 +3617,19 @@ Model2 구조 ^9xYa748b
 			"width": 170.2735870317057,
 			"height": 2.5700731681910156,
 			"seed": 1711735392,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362233,
+			"updated": 1711411391933,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
-			"endBinding": null,
+			"endBinding": {
+				"elementId": "89w4xivoSBDkCS5lr-4Fu",
+				"focus": -1.1037036812270475,
+				"gap": 23.24435544311484
+			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": "arrow",
@@ -3768,8 +3646,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "arrow",
-			"version": 685,
-			"versionNonce": 191303222,
+			"version": 691,
+			"versionNonce": 2020446461,
 			"isDeleted": false,
 			"id": "bex-8BLCO8FQIK_Q8WtEW",
 			"fillStyle": "solid",
@@ -3782,23 +3660,25 @@ Model2 구조 ^9xYa748b
 			"y": 829.0321707106668,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 182.0251510374393,
-			"height": 0.4319848238042141,
+			"width": 182.28379544392772,
+			"height": 0.43259864259641745,
 			"seed": 1723315808,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362357,
+			"updated": 1711411391933,
 			"link": null,
 			"locked": false,
-			"startBinding": null,
+			"startBinding": {
+				"elementId": "89w4xivoSBDkCS5lr-4Fu",
+				"focus": -0.9324500017465489,
+				"gap": 21.56564759958053
+			},
 			"endBinding": {
 				"elementId": "fQTRmiBhY6E_zGJXjlFEd",
-				"focus": -0.4377811116613447,
-				"gap": 20.937543316729474
+				"gap": 20.937543316729474,
+				"focus": -0.4377811116613447
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -3809,15 +3689,15 @@ Model2 구조 ^9xYa748b
 					0
 				],
 				[
-					182.0251510374393,
-					0.4319848238042141
+					182.28379544392772,
+					0.43259864259641745
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 925,
-			"versionNonce": 81453738,
+			"version": 927,
+			"versionNonce": 582038973,
 			"isDeleted": false,
 			"id": "ZzunrZF0fU8aXH5i9PEx6",
 			"fillStyle": "solid",
@@ -3833,16 +3713,18 @@ Model2 구조 ^9xYa748b
 			"width": 189.246519243887,
 			"height": 1.5502280016248449,
 			"seed": 1314970208,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362233,
+			"updated": 1711411391933,
 			"link": null,
 			"locked": false,
-			"startBinding": null,
+			"startBinding": {
+				"elementId": "89w4xivoSBDkCS5lr-4Fu",
+				"focus": -0.0023365422380400964,
+				"gap": 9.468418503045768
+			},
 			"endBinding": null,
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -3860,8 +3742,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "arrow",
-			"version": 755,
-			"versionNonce": 1702690154,
+			"version": 757,
+			"versionNonce": 1449306749,
 			"isDeleted": false,
 			"id": "BPxxXZjTTxhdQJam_INOL",
 			"fillStyle": "solid",
@@ -3877,17 +3759,19 @@ Model2 구조 ^9xYa748b
 			"width": 190.5169795165515,
 			"height": 1.774888162654392,
 			"seed": 1648729696,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362233,
+			"updated": 1711411391933,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
-			"endBinding": null,
+			"endBinding": {
+				"elementId": "89w4xivoSBDkCS5lr-4Fu",
+				"focus": -0.23801334727713286,
+				"gap": 6.57558669640423
+			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
 			"endArrowhead": "arrow",
@@ -3904,8 +3788,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "text",
-			"version": 306,
-			"versionNonce": 143507498,
+			"version": 307,
+			"versionNonce": 1048821693,
 			"isDeleted": false,
 			"id": "Aq1DZDxs",
 			"fillStyle": "solid",
@@ -3921,13 +3805,11 @@ Model2 구조 ^9xYa748b
 			"width": 46.843963623046875,
 			"height": 33.6,
 			"seed": 415421024,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362233,
+			"updated": 1711411240814,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3943,8 +3825,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "text",
-			"version": 321,
-			"versionNonce": 2046307050,
+			"version": 322,
+			"versionNonce": 744941203,
 			"isDeleted": false,
 			"id": "B3mPUzyf",
 			"fillStyle": "solid",
@@ -3960,13 +3842,11 @@ Model2 구조 ^9xYa748b
 			"width": 37.91197204589844,
 			"height": 33.6,
 			"seed": 1903789664,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362233,
+			"updated": 1711411240814,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -3982,8 +3862,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "text",
-			"version": 160,
-			"versionNonce": 273104298,
+			"version": 161,
+			"versionNonce": 1590607901,
 			"isDeleted": false,
 			"id": "GXsozVtG",
 			"fillStyle": "solid",
@@ -3999,13 +3879,11 @@ Model2 구조 ^9xYa748b
 			"width": 157.17593383789062,
 			"height": 43.199999999999996,
 			"seed": 1765390944,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362233,
+			"updated": 1711411240814,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -4021,8 +3899,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "text",
-			"version": 210,
-			"versionNonce": 413530218,
+			"version": 211,
+			"versionNonce": 1251122227,
 			"isDeleted": false,
 			"id": "MSeNM5yU",
 			"fillStyle": "solid",
@@ -4038,13 +3916,11 @@ Model2 구조 ^9xYa748b
 			"width": 400.8958740234375,
 			"height": 43.199999999999996,
 			"seed": 1658023520,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362233,
+			"updated": 1711411240814,
 			"link": null,
 			"locked": false,
 			"fontSize": 36,
@@ -4060,8 +3936,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "rectangle",
-			"version": 268,
-			"versionNonce": 48192298,
+			"version": 283,
+			"versionNonce": 1180702259,
 			"isDeleted": false,
 			"id": "TNOKQLn4aFAW65oGKY72k",
 			"fillStyle": "hachure",
@@ -4070,16 +3946,14 @@ Model2 구조 ^9xYa748b
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": -38.74128112526671,
-			"y": 1041.4604650882225,
+			"x": 4.11586173187618,
+			"y": 1043.3652269929844,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#ffc9c9",
 			"width": 103.33333333333337,
 			"height": 74.44444444444446,
 			"seed": 1729536608,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [
@@ -4088,14 +3962,14 @@ Model2 구조 ^9xYa748b
 					"id": "DYIXipfH"
 				}
 			],
-			"updated": 1710892362233,
+			"updated": 1711411398406,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 266,
-			"versionNonce": 224290282,
+			"version": 281,
+			"versionNonce": 419747795,
 			"isDeleted": false,
 			"id": "DYIXipfH",
 			"fillStyle": "solid",
@@ -4104,20 +3978,18 @@ Model2 구조 ^9xYa748b
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": -3.9866093926820554,
-			"y": 1061.8826873104447,
+			"x": 38.870533464460834,
+			"y": 1063.7874492152066,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 33.82398986816406,
 			"height": 33.6,
 			"seed": 1691571808,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362233,
+			"updated": 1711411398406,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -4133,8 +4005,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "rectangle",
-			"version": 200,
-			"versionNonce": 1898846378,
+			"version": 201,
+			"versionNonce": 1705581789,
 			"isDeleted": false,
 			"id": "DuE9aNp6egJtv_US8EBxk",
 			"fillStyle": "hachure",
@@ -4150,20 +4022,18 @@ Model2 구조 ^9xYa748b
 			"width": 96.74999999999994,
 			"height": 48,
 			"seed": 1893304928,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362233,
+			"updated": 1711411240814,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 117,
-			"versionNonce": 234451818,
+			"version": 118,
+			"versionNonce": 2057923443,
 			"isDeleted": false,
 			"id": "wet51TVaFqInbGgir5Ffc",
 			"fillStyle": "hachure",
@@ -4179,13 +4049,11 @@ Model2 구조 ^9xYa748b
 			"width": 39,
 			"height": 1,
 			"seed": 100220512,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362233,
+			"updated": 1711411240814,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4206,8 +4074,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "text",
-			"version": 136,
-			"versionNonce": 369849898,
+			"version": 137,
+			"versionNonce": 1871411517,
 			"isDeleted": false,
 			"id": "tQUwK4a1",
 			"fillStyle": "hachure",
@@ -4223,13 +4091,11 @@ Model2 구조 ^9xYa748b
 			"width": 43.84796142578125,
 			"height": 33.6,
 			"seed": 1157788256,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362233,
+			"updated": 1711411240814,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -4245,8 +4111,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "rectangle",
-			"version": 213,
-			"versionNonce": 978264298,
+			"version": 236,
+			"versionNonce": 1493324509,
 			"isDeleted": false,
 			"id": "89w4xivoSBDkCS5lr-4Fu",
 			"fillStyle": "hachure",
@@ -4255,27 +4121,46 @@ Model2 구조 ^9xYa748b
 			"roughness": 2,
 			"opacity": 100,
 			"angle": 0,
-			"x": -132.02135864261237,
+			"x": -131.0689776902314,
 			"y": 817.8072536978113,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
-			"width": 334.33173134601503,
+			"width": 371.47458848887214,
 			"height": 329.9470529021328,
 			"seed": 1714841184,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": [],
-			"updated": 1710892362233,
+			"boundElements": [
+				{
+					"id": "dgxEt3RTo3I7pX9Mf2CVT",
+					"type": "arrow"
+				},
+				{
+					"id": "88mpiPLpHOvLzYTidFmcz",
+					"type": "arrow"
+				},
+				{
+					"id": "bex-8BLCO8FQIK_Q8WtEW",
+					"type": "arrow"
+				},
+				{
+					"id": "ZzunrZF0fU8aXH5i9PEx6",
+					"type": "arrow"
+				},
+				{
+					"id": "BPxxXZjTTxhdQJam_INOL",
+					"type": "arrow"
+				}
+			],
+			"updated": 1711411391933,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 130,
-			"versionNonce": 1448047530,
+			"version": 131,
+			"versionNonce": 1503873437,
 			"isDeleted": false,
 			"id": "fntvaaRa",
 			"fillStyle": "hachure",
@@ -4291,13 +4176,11 @@ Model2 구조 ^9xYa748b
 			"width": 140.41989135742188,
 			"height": 33.6,
 			"seed": 1901643360,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362233,
+			"updated": 1711411240814,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -4313,8 +4196,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "text",
-			"version": 193,
-			"versionNonce": 473394794,
+			"version": 228,
+			"versionNonce": 2053798771,
 			"isDeleted": false,
 			"id": "CH65XWjs",
 			"fillStyle": "hachure",
@@ -4323,20 +4206,18 @@ Model2 구조 ^9xYa748b
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -358.98355869011147,
-			"y": 848.1425469695448,
+			"x": -363.7454634520162,
+			"y": 819.5711183981164,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 189.44784545898438,
 			"height": 33.6,
 			"seed": 1332429408,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362233,
+			"updated": 1711411267109,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -4352,8 +4233,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "text",
-			"version": 214,
-			"versionNonce": 1087508778,
+			"version": 249,
+			"versionNonce": 1091605779,
 			"isDeleted": false,
 			"id": "qyIcXnfh",
 			"fillStyle": "hachure",
@@ -4362,20 +4243,18 @@ Model2 구조 ^9xYa748b
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -334.86782724875957,
-			"y": 1133.1466458218856,
+			"x": -339.6297320106643,
+			"y": 1104.5752172504572,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"width": 131.0119171142578,
 			"height": 33.6,
 			"seed": 1447656032,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362233,
+			"updated": 1711411267109,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -4391,8 +4270,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "rectangle",
-			"version": 347,
-			"versionNonce": 663378922,
+			"version": 348,
+			"versionNonce": 4955219,
 			"isDeleted": false,
 			"id": "dkt56CDmJYCXT9X3cbPFB",
 			"fillStyle": "hachure",
@@ -4408,20 +4287,18 @@ Model2 구조 ^9xYa748b
 			"width": 99.33173134601502,
 			"height": 33.69705290213324,
 			"seed": 535203424,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362233,
+			"updated": 1711411240814,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 168,
-			"versionNonce": 241913514,
+			"version": 169,
+			"versionNonce": 822691421,
 			"isDeleted": false,
 			"id": "Y3W1IIAAh2FQMqy7ykn03",
 			"fillStyle": "hachure",
@@ -4437,13 +4314,11 @@ Model2 구조 ^9xYa748b
 			"width": 39,
 			"height": 1,
 			"seed": 1979708320,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362233,
+			"updated": 1711411240814,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4464,8 +4339,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "line",
-			"version": 173,
-			"versionNonce": 975169898,
+			"version": 174,
+			"versionNonce": 869964275,
 			"isDeleted": false,
 			"id": "C5Cq957e6xC-MAclIugiE",
 			"fillStyle": "hachure",
@@ -4481,13 +4356,11 @@ Model2 구조 ^9xYa748b
 			"width": 39,
 			"height": 1,
 			"seed": 676598368,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362233,
+			"updated": 1711411240814,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -4508,8 +4381,8 @@ Model2 구조 ^9xYa748b
 		},
 		{
 			"type": "rectangle",
-			"version": 337,
-			"versionNonce": 569584682,
+			"version": 338,
+			"versionNonce": 2781885,
 			"isDeleted": false,
 			"id": "346edNpRYjJ6TRSnZSY3u",
 			"fillStyle": "hachure",
@@ -4525,20 +4398,18 @@ Model2 구조 ^9xYa748b
 			"width": 96.24999999999994,
 			"height": 32.5000000000002,
 			"seed": 1656824416,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362233,
+			"updated": 1711411240814,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 353,
-			"versionNonce": 466622186,
+			"version": 354,
+			"versionNonce": 1140384659,
 			"isDeleted": false,
 			"id": "9xYa748b",
 			"fillStyle": "hachure",
@@ -4554,13 +4425,11 @@ Model2 구조 ^9xYa748b
 			"width": 384.5237731933594,
 			"height": 100.80000000000001,
 			"seed": 1511748512,
-			"groupIds": [
-				"1jqy9iHhVLIrBfyOuj-tk"
-			],
+			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710892362233,
+			"updated": 1711411240814,
 			"link": null,
 			"locked": false,
 			"fontSize": 28,
@@ -4573,6 +4442,163 @@ Model2 구조 ^9xYa748b
 			"originalText": "request와 response에 대한 책임이 \nServlet과 JSP로 나누어지는(책임의 분리)\nModel2 구조",
 			"lineHeight": 1.2,
 			"baseline": 93
+		},
+		{
+			"type": "arrow",
+			"version": 613,
+			"versionNonce": 449880403,
+			"isDeleted": false,
+			"id": "fACcxvU7Em0W1Os7-LihY",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"angle": 0,
+			"x": -364.9783636342502,
+			"y": 1050.1037610130581,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 138.2539682539679,
+			"height": 35.61122383845054,
+			"seed": 66318557,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1711411284806,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "xngkWR8AQ25NDsZcSxqY9",
+				"focus": 0.4836390116772555,
+				"gap": 11.595269091155672
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-138.2539682539679,
+					-35.61122383845054
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 343,
+			"versionNonce": 1759536499,
+			"isDeleted": false,
+			"id": "ON9Zqsdw",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "dashed",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -19.00239194021981,
+			"y": 1000.4005305608005,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 145.08058166503906,
+			"height": 30.742857142857105,
+			"seed": 493493789,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1711411398406,
+			"link": null,
+			"locked": false,
+			"fontSize": 25.61904761904759,
+			"fontFamily": 4,
+			"text": "Domain Layer",
+			"rawText": "Domain Layer",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Domain Layer",
+			"lineHeight": 1.2,
+			"baseline": 24
+		},
+		{
+			"type": "text",
+			"version": 437,
+			"versionNonce": 1295026717,
+			"isDeleted": false,
+			"id": "FI8zGtyS",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "dashed",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -119.70152033120027,
+			"y": 835.1624353227054,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 121.28147888183594,
+			"height": 55.141102147177065,
+			"seed": 2134733469,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1711411476650,
+			"link": null,
+			"locked": false,
+			"fontSize": 22.975459227990445,
+			"fontFamily": 4,
+			"text": "Business logic \nLayer",
+			"rawText": "Business logic \nLayer",
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Business logic \nLayer",
+			"lineHeight": 1.2,
+			"baseline": 49
+		},
+		{
+			"type": "text",
+			"version": 479,
+			"versionNonce": 2138892605,
+			"isDeleted": false,
+			"id": "1JrRbnBO",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "dashed",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 102.09512752901176,
+			"y": 837.7009693097209,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 94.93130493164062,
+			"height": 50.20451023243327,
+			"seed": 1466585789,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1711411485675,
+			"link": null,
+			"locked": false,
+			"fontSize": 20.91854593018053,
+			"fontFamily": 4,
+			"text": "Persistence\nLayer",
+			"rawText": "Persistence\nLayer",
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Persistence\nLayer",
+			"lineHeight": 1.2,
+			"baseline": 44
 		}
 	],
 	"appState": {
@@ -4587,13 +4613,13 @@ Model2 구조 ^9xYa748b
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 4,
 		"currentItemFontSize": 28,
-		"currentItemTextAlign": "left",
+		"currentItemTextAlign": "center",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 908.7931759951708,
-		"scrollY": 930.1915091885583,
+		"scrollX": 653.3260882583463,
+		"scrollY": -580.5041019893723,
 		"zoom": {
-			"value": 0.4
+			"value": 1.0500000000000007
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
