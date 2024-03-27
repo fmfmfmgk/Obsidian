@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSP/2024-03-26(화).md",
+                "file": "JSP/2024-03-27(수).md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5,
-    "collapsed": true
+    "width": 234.5
   },
   "right": {
     "id": "31b68a82de377f79",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSP/2024-03-26(화).md",
+                "file": "JSP/2024-03-27(수).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSP/2024-03-26(화).md",
+                "file": "JSP/2024-03-27(수).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSP/2024-03-26(화).md"
+                "file": "JSP/2024-03-27(수).md"
               }
             }
           }
@@ -160,10 +159,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
+  "floating": {
+    "id": "c5f271b58d682149",
+    "type": "floating",
+    "children": [
+      {
+        "id": "08a79e03e9714eed",
+        "type": "window",
+        "children": [
+          {
+            "id": "d088bf6be6715232",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "98a800e17525a886",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "JSP/Drawing 2024-03-27 09.12.20.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2364,
+        "y": 55,
+        "width": 1451,
+        "height": 978,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "bdde1f4b1751738a",
   "lastOpenFiles": [
-    "JSP/2024-03-25(월).md",
+    "JSP/Drawing 2024-03-27 09.12.20.excalidraw.md",
+    "JSP/2024-03-27(수).md",
     "JSP/2024-03-26(화).md",
+    "JSP/2024-03-25(월).md",
     "JSP/D.3-Tier 5-L.A.md",
     "JSP/D.데이터 전송.md",
     "JSP/D.레이어드 아키텍쳐.md",
@@ -186,8 +222,6 @@
     "JSP/2024-03-18(월).md",
     "JSP/Drawing 2024-03-15 09.33.09.excalidraw.md",
     "JSP/2024-03-15(금).md",
-    "JSP/2024-03-14(목).md",
-    "JSP/2024-03-13(수).md",
     "사진 파일/Pasted image 20240314190035.png",
     "사진 파일/Pasted image 20240314185817.png",
     "사진 파일/Pasted image 20240313104826.png",
